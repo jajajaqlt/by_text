@@ -1,0 +1,3378 @@
+{
+  "papers": [
+    {
+      "id": "f2320c08c7d95bbf8bb72e4d6deaa6845ea4cf27",
+      "title": "60 seconds with Kate Jack.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Kate Jack",
+          "ids": [
+            "38280253"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "Nursing times",
+      "journalName": "Nursing times",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "5432a99cdd9f8b248c50274cd3d2a6016f3d081e",
+      "title": "Organizing a search for an academic administrator.",
+      "paperAbstract": "The search for new administrators in complex systems is an important activity. The special requirements of academic organizations, particularly those with health centers, present some unique considerations that can confound this important and difficult process. Typically, national searches attract a sizable candidate list composed of persons with diverse backgrounds and experiences, and a committee is empowered to sort through their qualifications. A critical step in the planning of each search is the development of a process that allows participatory decision making while not requiring too much time. Too often the search becomes an unmanageable activity that confuses the searchers and frustrates the administration. A seven-step process has proven successful for use by committees to attract and sort through written candidate applications, to agree upon a preliminary ranking of candidates and to reach a consensus on a final list of recommendations. The process could be applied in almost any organizational setting.",
+      "authors": [
+        {
+          "name": "W N Spellacy",
+          "ids": [
+            "5862934"
+          ]
+        },
+        {
+          "name": "J Burger",
+          "ids": [
+            "1757639"
+          ]
+        }
+      ],
+      "year": 1986,
+      "venue": "The Journal of reproductive medicine",
+      "journalName": "The Journal of reproductive medicine",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "155663331ea93379e99997bd43340eb54ab41a73",
+      "title": "An annexin 1 N-terminal peptide activates leukocytes by triggering different members of the formyl peptide receptor family.",
+      "paperAbstract": "The human N-formyl peptide receptor (FPR) is a key modulator of chemotaxis directing granulocytes toward sites of bacterial infections. FPR is the founding member of a subfamily of G protein-coupled receptors thought to function in inflammatory processes. The other two members, FPR-like (FPRL)1 and FPRL2, have a greatly reduced affinity for bacterial peptides or do not bind them at all, with FPRL2 being considered an orphan receptor so far. In this study we show that a peptide derived from the N-terminal domain of the anti-inflammatory protein annexin 1 (lipocortin 1) can activate all three FPR family members at similar concentrations. The annexin 1 peptide initiates chemotactic responses in human monocytes that express all three FPR family members and also desensitizes the cells toward subsequent stimulation with bacterial peptide agonists. Experiments using HEK 293 cells stably expressing a single FPR family member reveal that all three receptors can be activated and desensitized by the N-terminal annexin 1 peptide. These observations identify the annexin 1 peptide as the first endogenous ligand of FPRL2 and indicate that annexin 1 participates in regulating leukocyte emigration into inflamed tissue by activating and desensitizing different receptors of the FPR family.",
+      "authors": [
+        {
+          "name": "Stefanie Ernst",
+          "ids": [
+            "39900230"
+          ]
+        },
+        {
+          "name": "Carsten Lange",
+          "ids": [
+            "38285107"
+          ]
+        },
+        {
+          "name": "Andreas Wilbers",
+          "ids": [
+            "34505589"
+          ]
+        },
+        {
+          "name": "Verena Goebeler",
+          "ids": [
+            "6302762"
+          ]
+        },
+        {
+          "name": "Volker Gerke",
+          "ids": [
+            "6509600"
+          ]
+        },
+        {
+          "name": "Ursula Rescher",
+          "ids": [
+            "4702003"
+          ]
+        }
+      ],
+      "year": 2004,
+      "venue": "Journal of immunology",
+      "journalName": "Journal of immunology",
+      "outCitations": [
+        "c2b53b26c004fe57e85424df6ad101d283150648",
+        "d30e703f3d6d74bfc6845c9469d681e491bac5fe",
+        "6494f3ba9340ff0bf04bf6fcaee639a16c273d12",
+        "81e8afe731c3fceac456ef28027f96b40439e5e8",
+        "56101af10d0b74526d0365f850877a51c0e0866b",
+        "32ef6bd7082c817934c0163abb3e6d3e818c64d7",
+        "2f97ef8f51637774f47dcfdc5fc05ef728ed24b6",
+        "d21899d415d539ce3fad09032ad27afba84bcfd2",
+        "3929e76314143450e905f954c6226da5ced68954",
+        "5e69462299d07cac473aa1a864dd51cae398af9c",
+        "315a775b3219ae31367df439080806a1666b1624",
+        "e658ebc0cbb4443d1f79a1d6bc92111d9f536c98",
+        "e2164cb09414781bd46cb0d403a72a0ea5793682",
+        "43ef3abacf752f00d35ecdb4b08e32f0370d7abb",
+        "3123c56dadd34503128e73d556d0308748932c56",
+        "ec3405c7b34b3b9def5f87fe1ca0c9f0b37d4644",
+        "97ba43f452c3eaf3e994f39e426f86b3594369d1",
+        "4c23424e376c16e7fd501fc8742f51881e57d25b",
+        "497b0cfb888f36f32c4b4843aee01c5509b02123",
+        "f5ec2d092c6969299eeb2842060d6cab98613f73",
+        "c0f339442b3f84567f1f9ea05805480d5295c4a8",
+        "af02aed0e5bff33617f96d840e36ff065cf469ed",
+        "8559addff0abfeefbefeb7e7cff8667891adc0a3",
+        "941e38df2a1198b14dfc82aaa4cf6db12704004d",
+        "ad7b4b77fe7f98c6799d5a569db0380a6d352928",
+        "c5cd33ac650b3b7bbd6a4e8afc4ab89681ef16b0",
+        "136c57be9e4c36f8ba36e1966647724b27577ab9",
+        "6bc51ccd63cb18d5b950f0067d60d000c653696f",
+        "cbefdfe5df7696f92cd02ca8f27e768ab8597bed",
+        "bb2412da92ddae7063227e61c9e5cff080557e13",
+        "ed55dded3d9cb58e5b630840144548fe4c9b30f7",
+        "9aa2ae2573c701e5855977d7f354ee1b957e0fc3",
+        "050d7c0cc34d6dbd2485fca72e53498725f583fb",
+        "3e9a27b239b8b33259332b41b5541ee12e8fc8b1",
+        "614653777ab95341368b82744e40d079cce1599e",
+        "425ed8ee2d3c490ce1e2253d28fb6d5d447f2487",
+        "36063ad87d5de2293e63b26df1bb766ad10d19b0",
+        "32b823d9c492a2c1455b9cd2f292aa5d4002198f",
+        "c23f24bf3c29e2e48ea832809cd6da04293783d6",
+        "6d62795c42bc4397801968dd430303b56968d4b3",
+        "0fc68bb34163586d66d526c5e69792b038b01b8c",
+        "6a9dc9e2d9d3224d33dcc49d48c4cd60a4fd0a6a",
+        "bc0ab72643f01c9f3bbf957a9738c682da314d8a",
+        "32ef2f7cd4d56642e1991a39379738ae711fd231"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "b5a25960ebee9a6e5db79196e6b07f0edfcf5313",
+      "title": "[Serum CA 19-9 levels in rheumatic diseases with interstitial pneumonia].",
+      "paperAbstract": "Serum CA 19-9 (2-3 sialyl Le(a)) is a marker of malignant disorder such as pancreas or gall bladder cancers. It has been reported that sera from patients with interstitial pneumonia show elevated level of CA 19-9. To investigate the relationship between the elevation of serum CA 19-9 (sCA 19-9) and the presence of pulmonary fibrosis, we examined the level of sCA 19-9 in sera from patients with rheumatic diseases with or without interstitial pneumonia (IP). The sCA 19-9 level was determined by enzyme-linked immunosorbent assay (ELISA). Fourteen sera of 129 (10.9%) patients with rheumatic diseases without malignant disorders were positive for sCA 19-9 when normal range was determined as less than 100 U/ml (mean +/- 5 SD), and 26.7% of sera from poly/dermatomyositis (PM/DM) and 11.8% of systemic sclerosis (PSS) were positive for CA 19-9. Whereas only 8.0% of rheumatoid arthritis (RA) was positive. Twelve (28.6%) of 42 rheumatic patients with IP showed positive levels for sCA 19-9 (mean 142.5 +/- 363.0 U/ml), whereas only two (2.3%) of 87 without IP were positive (mean 33.9 +/- 65.8 U/ml; p < 0.05). The correlation between the level of sCA 19-9 and pulmonary diffusing capacity (%DLCO) revealed an inverse correlation in 32 rheumatic patients with IP (r = -0.43, p < 0.05). Furthermore, the elevated sCA 19-9 levels decreased after treatment with corticosteroid and/or cyclophosphamide or cyclosporin A. Therefore, elevation of the level of sCA 19-9 seems to be involved in the pathogenesis of IP and sCA 19-9 will be a useful parameter for IP. It has been reported that the CA 19-9 is produced from the bronchial glands and suggested that during chronic fibrotic process of the lung, the metaplastic change of the bronchial glandular cells occur and the cells produce CA 19-9.",
+      "authors": [
+        {
+          "name": "S Yamamoto",
+          "ids": [
+            "1801874"
+          ]
+        },
+        {
+          "name": "S Kobayashi",
+          "ids": [
+            "1853384"
+          ]
+        },
+        {
+          "name": "M Tanaka",
+          "ids": [
+            "1752907"
+          ]
+        },
+        {
+          "name": "T Akimoto",
+          "ids": [
+            "1836682"
+          ]
+        },
+        {
+          "name": "Y Takasaki",
+          "ids": [
+            "2752317"
+          ]
+        }
+      ],
+      "year": 1996,
+      "venue": "Nihon Rinsho Men'eki Gakkai kaishi = Japanese journal of clinical immunology",
+      "journalName": "Nihon Rinsho Men'eki Gakkai kaishi = Japanese journal of clinical immunology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "3b7538465b0559e2d3ff2b65991c8e399e457822",
+      "title": "Sequence dependence of low-frequency Raman-active modes in nucleic acids.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Edwards",
+          "ids": [
+            "14380299"
+          ]
+        },
+        {
+          "name": "Liu",
+          "ids": [
+            "3738631"
+          ]
+        }
+      ],
+      "year": 1991,
+      "venue": "Physical review. A, Atomic, molecular, and optical physics",
+      "journalName": "Physical review. A, Atomic, molecular, and optical physics",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "fd543437fb638f69d18d2daecdc3220aea52362d",
+      "title": "Effects of the big 2011 Thai flooding on paediatric surgeries.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Beuy Joob",
+          "ids": [
+            "2960984"
+          ]
+        },
+        {
+          "name": "Viroj Wiwanitkit",
+          "ids": [
+            "2058832"
+          ]
+        }
+      ],
+      "year": 2012,
+      "venue": "African journal of paediatric surgery : AJPS",
+      "journalName": "African journal of paediatric surgery : AJPS",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "4eb012080370337bc0cdcee6ef21ee4142ffddd5",
+      "title": "Human humoral immune responses against Trichinella spiralis.",
+      "paperAbstract": "The analysis of trichinellosis patients' sera was performed by Western blot against a crude extract of Trichinella spiralis. Eight distinctive bands from 38 to 104 kDa were present in most of the patients' sera as a striking homogeneous response. Some of these characteristic bands were found to be recognized by the serum of infected rodents and of an immunized rabbit in this work, and have also been reported to be recognized by monoclonal and polyclonal antibodies from T. spiralis infected or immunized rats, mice, swine or rabbits. Our data indicate that different animal species as well as humans recognize unique immunodominant epitopes of T. spiralis.",
+      "authors": [
+        {
+          "name": "P Alcántara",
+          "ids": [
+            "3785966"
+          ]
+        },
+        {
+          "name": "D Correa",
+          "ids": [
+            "1788997"
+          ]
+        }
+      ],
+      "year": 1993,
+      "venue": "International journal for parasitology",
+      "journalName": "International journal for parasitology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "e9e33133cf1562aaa14018161d4768861fd7c7b3",
+      "title": "Measles immunization. Successes and failures.",
+      "paperAbstract": "As a result of a large outbreak of measles, measles hemagglutination inhibition (HI) titers were measured in 465 immunized children. Titers of less than 1:4 were found in 14.6% of children immunized at 12 months of age as compared to 5.2% of those immunized at 13 months of age or later. Measles antibody titers were higher in the mothers of seronegative children who had been immunized at 11 or 12 months of age than in the mothers of seroposotive children. Measles HI titers of 1:4 or more were present in 94% of children immunized at 13 months of age or later between 1962 and 1964. The findings suggest that vaccine failure and not waning antibody accounts for the majority of titers of less than 1:4 in immunized children. Reimmunization programs should be considered for those who were immunized before 13 months of age.",
+      "authors": [
+        {
+          "name": "A S Yeager",
+          "ids": [
+            "3389810"
+          ]
+        },
+        {
+          "name": "J H Davis",
+          "ids": [
+            "4693519"
+          ]
+        },
+        {
+          "name": "L A Ross",
+          "ids": [
+            "4793596"
+          ]
+        },
+        {
+          "name": "B Harvey",
+          "ids": [
+            "1685964"
+          ]
+        }
+      ],
+      "year": 1977,
+      "venue": "JAMA",
+      "journalName": "JAMA",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "877fdacf08079f89ad64a708a0638754b8149766",
+      "title": "Mögliche Massnahmen zur Restaurierung des Sempachersees",
+      "paperAbstract": "Since 1954 average orthophosphate and total phosphorus concentrations have increased twenty and eightfold respectively in Lake Sempach. It is demonstrated that the lake is not in steady state with its phosphorus loading and that the net deposition rate of phosphorus is not linearly related to the phosphorus content of the lake. This implies that linear steady state one-box models are unsuitable to describe the phosphorus balance of this lake. Applying a nonlinear dynamic lake model we predict that the defined water quality goals ([P] ⩽30 mg m−3, [O2 ⩾4 mg m−3]) can only be achieved within the next 15 years if the external phosphorus loading is reduced by at least 50% and simultaneously lake-internal measures, such as hypolimnion areation or hypolimnion siphoning are carried into effect.",
+      "authors": [
+        {
+          "name": "R. Gächter",
+          "ids": [
+            "5708885"
+          ]
+        },
+        {
+          "name": "D. Imboden",
+          "ids": [
+            "11363377"
+          ]
+        },
+        {
+          "name": "H. Bührer",
+          "ids": [
+            "20589523"
+          ]
+        },
+        {
+          "name": "P. Stadelmann",
+          "ids": [
+            "32908318"
+          ]
+        }
+      ],
+      "year": 2006,
+      "venue": "Schweizerische Zeitschrift für Hydrologie",
+      "journalName": "Schweizerische Zeitschrift für Hydrologie",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "eaa3f0c477206915ec98c7c5fc0eb4bf696ce91c",
+      "title": "Interaction of bacterial RNA-polymerase with two different promoters of phage T7 DNA. Conformational analysis.",
+      "paperAbstract": "Using a rifampicin-resistant RNA polymerase with altered specificity to different promoters, the D promoter of T7 phage DNA with increased affinity to the mutant enzyme was chosen. This promoter and the T7 A1 promoter with unchanged affinity as well as some nonpromoter DNA fragments were used to compare temperature-induced conformational transitions of RNA polymerase in the course of complex formation. Conformational alterations of RNA polymerase were monitored by the fluorescent label method. It was shown that RNA polymerase undergoes a set of conformational transitions during complex formation with each promoter, some of which were similar by the character of change to spectral parameters of the label (reflecting RPi and, probably, RPo formation). The local structure of complexes formed above 33 degrees C differs for A1 and D. The conformational analysis reveals at least one temperature-dependent stage upon nonspecific interaction of the enzyme with nonpromoter DNA at 13-16 degrees C. Models of functional organization of the enzyme recognizing center and some features of the structure of the promoters which may be essential for their recognition are discussed.",
+      "authors": [
+        {
+          "name": "O N Ozoline",
+          "ids": [
+            "2186404"
+          ]
+        },
+        {
+          "name": "T A Uteshev",
+          "ids": [
+            "11818232"
+          ]
+        },
+        {
+          "name": "I S Masulis",
+          "ids": [
+            "2012631"
+          ]
+        },
+        {
+          "name": "S G Kamzolova",
+          "ids": [
+            "1700554"
+          ]
+        }
+      ],
+      "year": 1993,
+      "venue": "Biochimica et biophysica acta",
+      "journalName": "Biochimica et biophysica acta",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "f201a5bbdd1b5a4f6d47844dc0364e4852977d4b",
+      "title": "Neurohumoral stimulation of lipogenesis during altered states of energy balance.",
+      "paperAbstract": "Acid extracts of bovine hypothalamus stimulate lipogenic activity in adipose tissue. We employed a rat fat cell bioassay system to determine whether tissue concentrations of the active material vary as a function of spontaneous alterations in energy balance in hibernators and/or the obesity resulting from bilateral electrolytic lesions of the ventromedial area of the hypothalamus in rats. When hypothalamic extracts and partially purified plasma were fractionated using reverse-phase high-pressure liquid chromatography, both the void volume and material eluting 17 min after the start of a 25-min linear methanol gradient enhanced glucose incorporation into total lipid. Activities eluting with these two fractions were positively correlated with one another and were independent of insulin. The results indicate that a hypothalamic lipogenic factor (LHF) is detectable in plasma, that hypothalamic and circulating LHF concentrations vary in a reciprocal manner, and that elevations in plasma LHF concentration are associated with insulin resistance. The data suggest that the central regulation of lipogenesis is at least partially mediated by a hypothalamic humoral factor reaching fat depots via the circulation.",
+      "authors": [
+        {
+          "name": "R B Melnyk",
+          "ids": [
+            "34192776"
+          ]
+        },
+        {
+          "name": "J D Hallonquist",
+          "ids": [
+            "3664617"
+          ]
+        },
+        {
+          "name": "J M Martin",
+          "ids": [
+            "3704411"
+          ]
+        }
+      ],
+      "year": 1985,
+      "venue": "The American journal of physiology",
+      "journalName": "The American journal of physiology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "fb0342f6fd493f07292b58c304e809a33f27e028",
+      "title": "Native Point Defects in CaS: Focus on Intrinsic Defects and Rare Earth Ion Dopant Levels for Up-converted Persistent Luminescence.",
+      "paperAbstract": "We studied native point defects as well as Eu and Dy ion doping in CaS by the simple DFT + Hubbard U method. The electronic properties and formation energies of native point defects and dopants have been discussed. We found the neutral S vacancy has the lowest energy of 0.62 eV under the Ca-rich limit. The Schottky pair is another dominant defect with a cost of 1.51 eV per defect site from S-rich to Ca-rich chemical potential limits. Our calculations on the thermodynamic transition levels confirm the experimental observed intrinsic blue two-peak broad band emissions stimulated by near-infrared range irradiation for undoped CaS. Both Eu and Dy show an energetic favorable trend to be substitutionally doped in the CaS lattice. All of the positive charge states of the Eu ion contribute localized recombination trapping level in the gap while having very deep donor transition levels. The neutral state of Dy contributes to the occupied 4f level localized 1.3 eV below the conduction band edge with very shallow donor type transition level (0/+) of 0.56 eV below the conduction band. All of the positive charge states of Dy have two shallow 5d levels with 0.4 and 0.6 eV below the conduction band. In this work, we further analyzed that the Dy dopant contributed deeper trap levels in the CaS materials that can store the electron carriers with more evenly, wider, and deeper range of levels distributed so that they lengthen the decay-time of the persistent luminescence. The related 980 nm photo-stimulated luminescence is actualized with the help of native defects like VS(0), VS(+), and STK(-) as relay centers for a possible up-converted luminescence. We also summarized a narrow doping limit energy which has been determined as 1.33 eV constantly in CaS independent to different chemical potential limits. This gives a solid theoretical reference for lanthanide ion doping experiments in CaS.",
+      "authors": [
+        {
+          "name": "Bolong Huang",
+          "ids": [
+            "39504663"
+          ]
+        }
+      ],
+      "year": 2015,
+      "venue": "Inorganic chemistry",
+      "journalName": "Inorganic chemistry",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "3abe524586ee28ac2f4622493a590b898e4ea16c",
+      "title": "Responses to dynamic leg exercise in man as influenced by changes in muscle perfusion pressure.",
+      "paperAbstract": "The influences of induced alterations in muscle perfusion pressure on the physiological responses to rhythmic exercise in man were investigated. The experiments were carried out in healthy subjects performing leg exercise on a cycle ergometer at light to exhaustive work intensities. Increased muscle perfusion pressure was brought about by exposing the working legs of the supine subject to a subatmospheric pressure of -50 mm Hg (Lower Body Negative Pressure, LBNP), decreased perfusion pressure by instead applying a supraatmospheric pressure of 50 mm Hg (Leg Positive Pressure, LPP). In this way, the perfusion pressure in dynamically exercising large muscle groups could be altered in a controlled fashion. The influences of such manipulation of the perfusion pressure on the physiological adjustments to incremental-load exercise were studied and analysed. The main results and conclusions were as follows: (1) Exercise-induced increases in cardiac output were attenuated by LBNP, an effect caused by curtailment of stroke volume secondary to suction-induced sequestration of blood volume in capacitance vessels not affected by the action of the leg muscle pump. This situation resembles that of dynamic leg exercise in the upright body position. Thus, supine exercise with LBNP at -50 mm Hg seems to be a valid model of upright leg exercise, not only in that it increases perfusion pressure in working muscles but also by causing similar changes in the central circulation as a shift from supine to upright leg exercise. (2) Exercise-induced increases in systolic arterial pressure were markedly exaggerated by LPP, an effect attributable to increased exercise responses in both cardiac output and total peripheral resistance. The exaggerated pressor response supports the notion of a muscle chemoreflex drive in response to flow-restricted exercise tending to reduce the existing flow error. (3) Exercise-induced increases in O2 uptake and blood lactate concentration were both attenuated by LBNP and exaggerated by LPP. The changes in blood lactate levels are attributable to perfusion-pressure dependent variations in muscle blood flow, resulting in opposite changes in the share contributed by anaerobic metabolism to the energy release. Possible explanations for the fact that impaired muscle perfusion was associated with increased O2 uptake at given external work loads are discussed. (4) Exercise-induced responses of the pulmonary ventilation were attenuated by LBNP and markedly exaggerated by LPP.(ABSTRACT TRUNCATED AT 400 WORDS)",
+      "authors": [
+        {
+          "name": "O Eiken",
+          "ids": [
+            "6282817"
+          ]
+        }
+      ],
+      "year": 1987,
+      "venue": "Acta physiologica Scandinavica. Supplementum",
+      "journalName": "Acta physiologica Scandinavica. Supplementum",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "89fb65e37c4df9ef2731682da30f6fee3f64a34e",
+      "title": "[Causes of high milk acidity].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "S N Ziubin",
+          "ids": [
+            "16743375"
+          ]
+        }
+      ],
+      "year": 1968,
+      "venue": "Veterinariia",
+      "journalName": "Veterinariia",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "017fa61fadd8ad48fa1be2c64602ea108aaf4647",
+      "title": "Neuroprotective effects of leonurine on ischemia/reperfusion-induced mitochondrial dysfunctions in rat cerebral cortex.",
+      "paperAbstract": "Ischemic brain is particularly susceptible to free radicals mediated secondary neuronal damage, especially mitochondrial dysfunctions. Chinese Herbal Medicine with antioxidant properties is believed to have potential therapeutic effect. Leonurine, an alkaloid present in Herba Leonuri (HL), has shown biological effects such as antioxidant, anticoagulant, anti-apoptosis and protection against ischemic heart disease. In this study, neuroprotective effects of leonurine against cerebral ischemia/reperfusion-induced mitochondrial dysfunctions in cortex were evaluated. We used transient rat middle cerebral artery occlusion (MCAO) model of brain ischemia. The rats were treated with their respective treatments for 1 week prior to the MCAO. We found that leonurine significantly improved neurological outcome and reduced ischemia/reperfusion (I/R)-induced cerebral infarction 24 h after MCAO. Leonurine decreased reactive oxygen species (ROS) level in mitochondria isolated from ischemic cortex, which was increased by MCAO. Terminal deoxyuridine triphosphate (dUTP) Nick-End Labeling (TUNEL) staining showed anti-apoptotic effect of leonurine on ischemic cortex. Western blot analysis showed a marked decrease in the expression of Bax and an increase of Bcl-2 as a result of leonurine treatment. The attenuation of mitochondrial membrane swelling, restore of mitochondrial membrane potential and content of cytochrome c (Cyt-C) in mitochondria isolated from ischemic cortex could also be observed in leonurine treated group. The findings of this study suggest that leonurine has promising therapeutic effect for ischemic stroke treatment through antioxidant and anti-apoptotic mechanisms.",
+      "authors": [
+        {
+          "name": "Jia Qi",
+          "ids": [
+            "22355640"
+          ]
+        },
+        {
+          "name": "Zhen Yi Hong",
+          "ids": [
+            "32347014"
+          ]
+        },
+        {
+          "name": "Hong Xin",
+          "ids": [
+            "1755430"
+          ]
+        },
+        {
+          "name": "Yi Zhun Zhu",
+          "ids": [
+            "38845376"
+          ]
+        }
+      ],
+      "year": 2010,
+      "venue": "Biological & pharmaceutical bulletin",
+      "journalName": "Biological & pharmaceutical bulletin",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "d2c40211da24fd5b97fd771cddd4c4963098f744",
+      "title": "Synthesis and evaluation of antiplatelet activity of trihydroxychalcone derivatives.",
+      "paperAbstract": "In an effort to develop potent antiplatelet agents, a series of trihydroxychalcones was synthesized and screened in vitro for their inhibitory effects on washed rabbit platelet aggregation induced by arachidonic acid (100 microM) and collagen (10 microg/ml). Of five compounds with potent inhibitory effects on arachidonic acid- and collagen-induced platelet aggregation, compound 4e was found to be the most potent. The structure-activity relationships suggested that antiplatelet activity was governed to a greater extent by the substituent on B ring of the chalcone template, and most of the active compounds had methoxy or dimethoxy groups on B ring.",
+      "authors": [
+        {
+          "name": "Li-Ming Zhao",
+          "ids": [
+            "5553907"
+          ]
+        },
+        {
+          "name": "Hai-Shan Jin",
+          "ids": [
+            "14833262"
+          ]
+        },
+        {
+          "name": "Liang-Peng Sun",
+          "ids": [
+            "4079382"
+          ]
+        },
+        {
+          "name": "Hu-Ri Piao",
+          "ids": [
+            "6566954"
+          ]
+        },
+        {
+          "name": "Zhe-Shan Quan",
+          "ids": [
+            "1924821"
+          ]
+        }
+      ],
+      "year": 2005,
+      "venue": "Bioorganic & medicinal chemistry letters",
+      "journalName": "Bioorganic & medicinal chemistry letters",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "43fc80e75f3bd1c869ba9e6d2c6428ee25c6216b",
+      "title": "The financing of NMR equipment.",
+      "paperAbstract": "Cost-containment regulations and possible legislative changes in the tax area are creating new environments for the acquisition of nuclear magnetic resonance (NMR) systems. Shared services, management groups, and free-standing clinics are being established. Creativity in financing will be required to assure the cost-effectiveness of NMR services.",
+      "authors": [
+        {
+          "name": "A N Frankel",
+          "ids": [
+            "39947877"
+          ]
+        }
+      ],
+      "year": 1984,
+      "venue": "Applied radiology",
+      "journalName": "Applied radiology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "616cbfca724a5d313cd917d1e4063cc0f9def827",
+      "title": "Bone marrow cultures in children with Fanconi anemia and the TAR syndrome.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "V K Lui",
+          "ids": [
+            "6801702"
+          ]
+        },
+        {
+          "name": "A H Ragab",
+          "ids": [
+            "1846841"
+          ]
+        },
+        {
+          "name": "H S Findley",
+          "ids": [
+            "32226080"
+          ]
+        },
+        {
+          "name": "B J Frauen",
+          "ids": [
+            "12871602"
+          ]
+        }
+      ],
+      "year": 1977,
+      "venue": "The Journal of pediatrics",
+      "journalName": "The Journal of pediatrics",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "cd569bd7e537d5749eaf521e78a2a1d9b10ccee6",
+      "title": "A  Bulletin interview with Dr. Jack W. Gottschalk. Interview by Frank Recker.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "J W Gottschalk",
+          "ids": [
+            "14939194"
+          ]
+        }
+      ],
+      "year": 1977,
+      "venue": "Bulletin - Cincinnati Dental Society",
+      "journalName": "Bulletin - Cincinnati Dental Society",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "496de7e2aa6efc75b099e0328d9f584b45c16f91",
+      "title": "Geography, Mathematics and Mathematical Morphology",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Christine Voiron-Canicio",
+          "ids": [
+            "3115133"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "ISMM",
+      "journalName": "",
+      "outCitations": [],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "0c86aa05726b568482f6e3d7ce698519490c1d3d",
+      "title": "Nicotine and methyl methane sulfonate in mini organ cultures of human parotid gland tissue.",
+      "paperAbstract": "The aim was to demonstrate the applicability of using mini organ cultures (MOC) of the human parotid gland for indicating DNA damage by nicotine. Macroscopically healthy specimens of human parotid glands (1 mm3) were cultured for 7 d. Morphology was examined after HE and immunohistochemical staining of alpha-amylase. MOC were exposed to 2.0 mM nicotine or 100 microM methyl methane sulfonate (MMS) for 1, 2 and 3 h, followed by a regeneration period of 24 h. DNA damage was assessed by the comet assay. Histological findings demonstrated healthy acinar cells up to 8 days of culture and a strong expression pattern of alpha-amylase. Cells in the centre of mini organs showed a granular cytoplasm starting at day 3. 1-3 h nicotine exposure significantly increased DNA damage as determined by DNA in the tail (DT), with no significant differences with increasing exposure time and only a trend towards decreased values of DT after regeneration. MMS demonstrated a time-dependent increase in DNA damage and distinctly reduced DT values after regeneration. MOC may be used to study DNA damage and repair after repetitive exposure to xenobiotics. They provide additional information for in vitro studies of cells growing in an intact tissue structure.",
+      "authors": [
+        {
+          "name": "Christian Ginzkey",
+          "ids": [
+            "5613189"
+          ]
+        },
+        {
+          "name": "Gudrun Friehs",
+          "ids": [
+            "34219490"
+          ]
+        },
+        {
+          "name": "Christian Koehler",
+          "ids": [
+            "39524328"
+          ]
+        },
+        {
+          "name": "Stephan Hackenberg",
+          "ids": [
+            "6746321"
+          ]
+        },
+        {
+          "name": "Hans-Ullrich Voelker",
+          "ids": [
+            "39170243"
+          ]
+        },
+        {
+          "name": "Elmar Richter",
+          "ids": [
+            "2184305"
+          ]
+        },
+        {
+          "name": "Norbert H Kleinsasser",
+          "ids": [
+            "4420410"
+          ]
+        }
+      ],
+      "year": 2010,
+      "venue": "Toxicology letters",
+      "journalName": "Toxicology letters",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "7ad29bffe02ab9b359f34c281593f8e964936acb",
+      "title": "[Are specific pre-dialysis clinical visit necessary? Objective: comprehensive care of patients with chronic renal disease (CRD)].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "G Barril",
+          "ids": [
+            "8001707"
+          ]
+        },
+        {
+          "name": "P Sanz",
+          "ids": [
+            "1700156"
+          ]
+        },
+        {
+          "name": "M Ruperto",
+          "ids": [
+            "8647094"
+          ]
+        },
+        {
+          "name": "E Bardón",
+          "ids": [
+            "11630136"
+          ]
+        },
+        {
+          "name": "P Ruiz",
+          "ids": [
+            "1720649"
+          ]
+        },
+        {
+          "name": "R Selgas",
+          "ids": [
+            "5701649"
+          ]
+        }
+      ],
+      "year": 2006,
+      "venue": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+      "journalName": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "386ba3cd6888629014601110308aaf9f39523d80",
+      "title": "Knowledge Sharing Behaviour of Academics in The Polytechnic Ibadan",
+      "paperAbstract": "The study was designed to investigate the factors driving the academics to engage in work-related knowledge sharing activity using a conceptual model adapted from Theory of Planned Behaviour (TPB) of Ajzen (1991) and the two affective components (affective commitment and affect-based trust).A descriptive survey research design covering academics in all departments of the five faculties in The Polytechnic, Ibadan was employed.The literature review covered knowledge management KM, knowledge sharing KS and knowledge sharing behaviour KSB. Self-structured questionnaire based on the adapted model were administered as data collection instrument. Completeenumeration survey study was carried out because the total study population was about 346 lecturers and the same copies of questionnaire were distributed to the academics across the five faculties of the polytechnic of which 235 copies were returned. The data was analysed using descriptive and inferential statistics.Academics of The Polytechnic, Ibadan will be willing to share their work-related knowledge if both the factors encouraging and inhibiting sharing of knowledge with their colleagues are adequately addressed.The result shows, on one hand, that perceived behavioural control (.000) and affective commitment (.000) were significant predictors of intention to share knowledge while attitude (.066), subjective norm (.308) and affect-based trust (.694)are not.On the other hand, academics’ intention toshare knowledge (.000) significantly",
+      "authors": [
+        {
+          "name": "Misbau Abiola",
+          "ids": []
+        },
+        {
+          "name": "Adeola O. Opesade",
+          "ids": [
+            "3485298"
+          ]
+        },
+        {
+          "name": "Misbau A. Abdur-Rafiu",
+          "ids": []
+        }
+      ],
+      "year": 2015,
+      "venue": "",
+      "journalName": "",
+      "outCitations": [
+        "a10b2fb452b040ee784b68b658c6e916e8893329",
+        "15541588321479aac5d916806ec7b331b8cc407e",
+        "ea6b226b4ed262766b70eb5d9813529defa3a283",
+        "42dc7dda19fea2c3e256fd496c4a82ba17386613",
+        "88ec92ca034e1c5729591e327b30da6ff5906f33",
+        "5b6873bf156d69c7d694ef3366da2eaf191f4dc4"
+      ],
+      "sources": []
+    },
+    {
+      "id": "c233e5ad23af66e1da7e40d3f3f2b49a6510f58e",
+      "title": "Making a difference in Haiti. Can-do doctors confront the agonies of health care desparation in Haiti.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "S R Singer",
+          "ids": [
+            "40586975"
+          ]
+        }
+      ],
+      "year": 1994,
+      "venue": "Journal of the Medical Association of Georgia",
+      "journalName": "Journal of the Medical Association of Georgia",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "4d2ed7102abae489faa4cb3cff44a37f0e245170",
+      "title": "Single-Particle States and Elementary Excitations in Graphene Bi-Wires: Minding the Substrate",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Cesar E.P. Villegas",
+          "ids": [
+            "33037345"
+          ]
+        },
+        {
+          "name": "Marcos R.S. Tavares",
+          "ids": [
+            "40027595"
+          ]
+        }
+      ],
+      "year": 2018,
+      "venue": "",
+      "journalName": "",
+      "outCitations": [
+        "db46ebab619f96e89cb35c247ded165f7a51d71c",
+        "db9b269136c9be8a9236ba95aad2b703844685d1",
+        "21cea5d6c147ae2a390d812f479c1f1e492d9cfb",
+        "5790254951d588d493a7a22a300cdff48cc24967",
+        "b7a28f1091f1e39afd0b0bfd9039aac9ac2a3167",
+        "3c79b95175672bcdb62101dbb4087b200123a96c",
+        "1fe37da0a896392831be802e82d403cbc6280987",
+        "c9e8c3b4c93bad2122bd40887ac98ab03ebd957f",
+        "d7d1218095d58eb095926ba10ca54b8eb0927d01",
+        "f0072402edaac1f3ff7e01e75401f8d532a13166",
+        "2aaed845443d34d7fee4af88bc1b4f1fe53196b8",
+        "23e04f25eaabe1415a17c141c0453da00b4736f9",
+        "a7a0f1c8be1cbf0ceb38dfc43f1a54a9d7212bfe",
+        "52b7feb698d4f9f4058b3c5a20edce4bddef2f39",
+        "df2fe5523a17816eb451796411f23026cae5d742",
+        "39285e6a2db032805a2d0df59912aaff5aada613",
+        "43731a7bc74a91ce6acbd96d4c47b2afe3b74b5c",
+        "3b705556d6aa4947c6b028dd29f0c084da96bf44",
+        "2110ca8f4ace1f684c804e25a27a54e349be20f5",
+        "8234a73360e49b37b52c13c6ef48258368fe0648",
+        "300f43355ae66823a815fb8b772119dd33bc9fe3",
+        "13e93666cc95c243a3d575bdd13727740fd91ad6",
+        "37652aed9275ac51adb5227e33c655b0ebac9a80"
+      ],
+      "sources": []
+    },
+    {
+      "id": "3c8e5aba200ca4846ee5955c00df33460aa31eff",
+      "title": "The diagnosis and treatment of cholangiocarcinoma.",
+      "paperAbstract": "BACKGROUND\nCholangiocarcinoma (CCA) is the second most common primary hepatic tumor in Germany, with about 3500 new cases per year. In recent years, its prognosis has improved because of wider resections and the establishment of local treatment and chemotherapy in the palliative situation.\n\n\nMETHODS\nThis review is based on pertinent articles that were retrieved by a selective literature search in the PubMed database with the keywords \"cholangiocarcinoma AND diagnostic OR therapy.\" Articles in English or German published up to January 2014 were considered.\n\n\nRESULTS\nThe sole curative treatment for CCA is surgery, but 40-85% of all patients have recurrent disease even after radical excision. Because of this high recurrence rate, adjuvant treatments are now under intense discussion. For unresectable CCA without distant metastases, small case series have shown that liver transplantation can yield promising survival rates of over 50% at 5 years. For many patients with CCA, however, only palliative treatments can be offered, including endoscopic clearing of the biliary pathways. Because of the low prevalence of the disease, there have been only a few phase 3 studies of palliative chemotherapy for CCA. On the basis of one positive phase 3 study, chemotherapy with gemcitabine and cisplatin is considered the standard and now plays an established role in palliative care.\n\n\nCONCLUSION\nCCA presents a special challenge in gastroenterology, oncology, and visceral surgery because of the difficulty in establishing the diagnosis, local complications in the biliary pathways, and a high recurrence rate after resection. Future studies should address not only the role of adjuvant chemotherapy, but also the efficacy of combined local and systemic treatment.",
+      "authors": [
+        {
+          "name": "Arndt Vogel",
+          "ids": [
+            "25128449"
+          ]
+        },
+        {
+          "name": "Henning Wege",
+          "ids": [
+            "3568220"
+          ]
+        },
+        {
+          "name": "Karel Caca",
+          "ids": [
+            "4535114"
+          ]
+        },
+        {
+          "name": "Björn Nashan",
+          "ids": [
+            "3797800"
+          ]
+        },
+        {
+          "name": "Ulf Neumann",
+          "ids": [
+            "3218987"
+          ]
+        }
+      ],
+      "year": 2014,
+      "venue": "Deutsches Arzteblatt international",
+      "journalName": "Deutsches Arzteblatt international",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "bfdb41f977ab9309f9f87ffb3a5c1867662300e9",
+      "title": "Free-energy calculations with multiple Gaussian modified ensembles.",
+      "paperAbstract": "We present a Monte Carlo algorithm, which samples free energies of complex systems. Less probable configurations are populated with the help of a multitude of additional Gaussian weights and parallel tempering is used for efficient Monte Carlo moves within phase space. The algorithm is easily parallelized and can be applied to a wide class of problems. We discuss algorithmic performance for the case of low-temperature phase separation in two-dimensional and three-dimensional Ising models, where we determine the magnetic interface tension. Multiple Gaussian modified ensemble simulations, unlike multicanonical ensemble simulations do not require a priori knowledge of the free energy and are of similar efficiency as multicanonical ensemble and Wang-Landau simulations.",
+      "authors": [
+        {
+          "name": "T Neuhaus",
+          "ids": [
+            "34143535"
+          ]
+        },
+        {
+          "name": "J S Hager",
+          "ids": [
+            "32586166"
+          ]
+        }
+      ],
+      "year": 2006,
+      "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+      "journalName": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "c38241f7b6f45c4456b62ca96272b55d583390cb",
+      "title": "ELR-negative CXC chemokine CXCL11 (IP-9/I-TAC) facilitates dermal and epidermal maturation during wound repair.",
+      "paperAbstract": "In skin wounds, the chemokine CXCR3 receptor appears to play a key role in coordinating the switch from regeneration of the ontogenically distinct mesenchymal and epithelial compartments toward maturation. However, because CXCR3 equivalently binds four different ELR-devoid CXC chemokines (ie, PF4/CXCL4, IP-10/CXCL10, MIG/CXCL9, and IP-9/CXCL11), we sought to identify the ligand that coordinates epidermal coverage with the maturation of the underlying superficial dermis. Because CXCL11 (IP-9 or I-TAC) is produced by redifferentiating keratinocytes late in the regenerative phase when re-epithelialization is completed and matrix maturation ensues, we generated mice in which an antisense construct (IP-9AS) eliminated IP-9 expression during the wound-healing process. Both full and partial thickness excisional wounds were created and analyzed histologically throughout a 2-month period. Wound healing was impaired in the IP-9AS mice, with a hypercellular and immature dermis noted even after 60 days. Re-epithelialization was delayed with a deficient delineating basement membrane persisting in mice expressing the IP-9AS construct. Provisional matrix components persisted in the dermis, and the mature basement membrane components laminin V and collagen IV were severely diminished. Interestingly, the inflammatory response was not diminished despite IP-9/I-TAC being chemotactic for such cells. We conclude that IP-9 is a key ligand in the CXCR3 signaling system for wound repair, promoting re-epithelialization and modulating the maturation of the superficial dermis.",
+      "authors": [
+        {
+          "name": "Cecelia C Yates",
+          "ids": [
+            "11326819"
+          ]
+        },
+        {
+          "name": "Diana Whaley",
+          "ids": [
+            "40022635"
+          ]
+        },
+        {
+          "name": "Amy Y-Chen",
+          "ids": [
+            "16226169"
+          ]
+        },
+        {
+          "name": "Priya Kulesekaran",
+          "ids": [
+            "14396891"
+          ]
+        },
+        {
+          "name": "Patricia A Hebda",
+          "ids": [
+            "4335187"
+          ]
+        },
+        {
+          "name": "Alan Wells",
+          "ids": [
+            "1961663"
+          ]
+        }
+      ],
+      "year": 2008,
+      "venue": "The American journal of pathology",
+      "journalName": "The American journal of pathology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "6314fc87bd779fe0ed2d9b251cc8fbff0d171428",
+      "title": "[progress in the Surgical Therapy of Tuberculosis of the Urinary Tract].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "A LASKOWNICKI",
+          "ids": [
+            "16846253"
+          ]
+        }
+      ],
+      "year": 1963,
+      "venue": "Polski przeglad chirurgiczny",
+      "journalName": "Polski przeglad chirurgiczny",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "8a06d37f87b6a85c6029100b4ac4a76ecc9cccc0",
+      "title": "\n               μ-Nitrilo­triacetato-tris(1,10-phenanthroline)dizinc(II) nitrate hexa­hydrate",
+      "paperAbstract": "The nitrilo-triacetate trianion in the title compound, [Zn(2)(C(6)H(6)NO(6))(C(12)H(8)N(2))(3)]NO(3)·6H(2)O, is engaged in N,O,O',O\"-chelation to the phenanthroline-chelated Zn(II) unit, giving a distorted octa-hedral geometry for the metal atom. One of the three O atoms of the trianion that is engaged in chelation also binds to the bis-(phenanthroline)-chelated Zn(II) unit, whose five-coordinate geometry is distorted owing to a long Zn⋯O inter-action [2.401 (2) Å]. The dinuclear cations, nitrate anions and uncoordinated water mol-ecules are linked into a three-dimensional network via O-H⋯O hydrogen bonds between water molecules and carboxylate O atoms.",
+      "authors": [
+        {
+          "name": "Lee Fang Chin",
+          "ids": [
+            "4641120"
+          ]
+        },
+        {
+          "name": "Chew Hee Ng",
+          "ids": [
+            "4465243"
+          ]
+        },
+        {
+          "name": "Seik Weng Ng",
+          "ids": [
+            "1839127"
+          ]
+        }
+      ],
+      "year": 2008,
+      "venue": "Acta crystallographica. Section E, Structure reports online",
+      "journalName": "",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "016f317b8ea0d44daddea26dd4dbd70d25978f23",
+      "title": "[Puerperal osteomalacia in the light of modern knowledge; clinical contribution].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "S BERTINO",
+          "ids": [
+            "32988700"
+          ]
+        }
+      ],
+      "year": 1950,
+      "venue": "Omnia medica",
+      "journalName": "Omnia medica",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "f3fbc43118fbc3ae892688edd5a0112f918ccd95",
+      "title": "Recurrent miscarriage, fact or fiction? Reply on comment by Christiansen.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Willem Vlaanderen",
+          "ids": [
+            "22710513"
+          ]
+        }
+      ],
+      "year": 2014,
+      "venue": "Acta obstetricia et gynecologica Scandinavica",
+      "journalName": "Acta obstetricia et gynecologica Scandinavica",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "8a2c431a6c7962d66c10ea823ea603c70cb91178",
+      "title": "Moderate-to-mild hypothermia may not be sufficient to protect the spinal cord during aortic arch surgery.",
+      "paperAbstract": "We read with great interest the article by Suzuki et al. [1] regarding antegrade selective cerebral perfusion (SCP) with lower body circulatory arrest (LBCA) at moderate body core temperatures of 30–32°C. We agree with the authors that antegrade SCP, utilizing deep hypothermic circulatory arrest (21–27°C) to safeguard the protection of the visceral end-organs and the spinal cord, has become the most efficient neuroprotective strategy during transverse aortic arch repair over the past decades. However, as described by the authors, antegrade SCP is being increasingly utilized in combination with progressively increasing body core temperatures [1], a trend culminating in the advocation of moderate-to-mild temperatures (up to 35°C) and even normothermia [2]. Suzuki et al. report on their technique of total aortic arch repair in a contemporary series of 105 patients using a quadrifurcated Dacron graft. The authors proclaim that they routinely aim for deeper body core temperatures (25°C) to ensure lower body-organ protection when LBCA is expected to exceed a duration of 30 min. However, the authors also state that in ‘almost all cases... the core temperature was still 30–32°C’ with a mean LBCA time of 58 ± 22 min in the reported series [1]. This progressive approach may bear potential risks for the non-perfused organs in case of prolonged operation times—apparently not only in case of unexpected technical problems (as documented by an average of 58 min of LBCA) [3, 4]. The authors also admit that they are not familiar with the safe limits of spinal cord ischaemic tolerance during distal circulatory arrest at mild hypothermia. In fact, the ischaemic tolerance of the spinal cord and the visceral organs has not yet been clearly defined, and is therefore not well recognized in clinical practice. A consensus paper of the EACTS Vascular Domain is currently underway to address this issue. However, with regard to recent experimental data, the safe ischaemic interval for the spinal cord—utilizing the currently available state—of—the—art adjuncts for intraoperative neuroprotection—may be estimated as follows [2, 5]:",
+      "authors": [
+        {
+          "name": "Maximilian Luehr",
+          "ids": [
+            "6167123"
+          ]
+        },
+        {
+          "name": "Christian D Etz",
+          "ids": [
+            "2176934"
+          ]
+        }
+      ],
+      "year": 2014,
+      "venue": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "journalName": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "outCitations": [
+        "d37247a572e9d3fb40f65acaf657c3deb195ec5c",
+        "9804e085f0ce8babb1ea0ef4e6754879eac31044",
+        "79fd1eec4fd55659636e94dc23fe22af0ac08f76",
+        "89dd270406fdaefcdb2fee8f9ba6455859c097b1",
+        "966fbe897a8da2e4c72e637240a7b9c225778da3",
+        "2b8649cee8f2edd32ca3b63bf9350939d83884a2"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "64df52afac5cb62698f3a3d21b5abe6806180c59",
+      "title": "[Methods of the study of pain in children (review of the literature)].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "V S Shukhov",
+          "ids": [
+            "4953945"
+          ]
+        }
+      ],
+      "year": 1989,
+      "venue": "Zhurnal nevropatologii i psikhiatrii imeni S.S. Korsakova",
+      "journalName": "Zhurnal nevropatologii i psikhiatrii imeni S.S. Korsakova",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "18aa7c88584d3ea0c8f798d9b131cb35969b9e33",
+      "title": "Predominant role of catalase in the disposal of hydrogen peroxide within human erythrocytes.",
+      "paperAbstract": "Purified enzymes were mixed to form a cell-free system that simulated the conditions for removal of hydrogen peroxide within human erythrocytes. Human glutathione peroxidase disposed of hydrogen peroxide (H2O2) at a rate that was only 17% of the rate at which human catalase simultaneously removed hydrogen peroxide. The relative rates observed were in agreement with the relative rates predicted from the kinetic constants of the two enzymes. These results confirm two earlier studies on intact erythrocytes, which refuted the notion that glutathione peroxidase is the primary enzyme for removal of hydrogen peroxide within erythrocytes. The present findings differ from the results with intact cells, however, in showing that glutathione peroxidase accounts for even less than 50% of the removal of hydrogen peroxide. A means is proposed for calculating the relative contribution of glutathione peroxidase and catalase in other cells and species. The present results raise the possibility that the major function of glutathione peroxidase may be the disposal of organic peroxides rather than the removal of hydrogen peroxide.",
+      "authors": [
+        {
+          "name": "G F Gaetani",
+          "ids": [
+            "6574603"
+          ]
+        },
+        {
+          "name": "A M Ferraris",
+          "ids": [
+            "3377220"
+          ]
+        },
+        {
+          "name": "M Rolfo",
+          "ids": [
+            "5476951"
+          ]
+        },
+        {
+          "name": "R Mangerini",
+          "ids": [
+            "4937527"
+          ]
+        },
+        {
+          "name": "S Arena",
+          "ids": [
+            "2597020"
+          ]
+        },
+        {
+          "name": "H N Kirkman",
+          "ids": [
+            "7261253"
+          ]
+        }
+      ],
+      "year": 1996,
+      "venue": "Blood",
+      "journalName": "Blood",
+      "outCitations": [
+        "1b7ad8b4cc852b274803eff7532b65e39001494f",
+        "5dbeeb52f8ba5c20106ee41500d62f4d67c05316",
+        "a044a30ff5bf3e7c1c57cfd64253017320b62330",
+        "434414e2a447820739db189d9737bf9ce0cf1ab4",
+        "761a15ab4abb4401f0147c3cdecb0e6dcf821327",
+        "46311b3b074de77e4f05a1c93d8ed8973eecf80e",
+        "e92e357531dfa05162ef9dbe395897bc4be8c3b2",
+        "580e4208ad0cc235f0f9df3637fb590ecbdd5488",
+        "ff7b5e8e8635e98f84285ae1f031fb0ead02f797",
+        "00ff6924e6c7a0b494314023035e1a84916561d6",
+        "87e46d053e982a7b17add47a2243ffab9003c4c1",
+        "735a63ceb89ea3c8771a872e292510fdbf1c52fe",
+        "e5fe56a8f44f79a7cb27611eb8283eded5130525",
+        "353ad2b0c60aa509a6da5d746d88cd397b4cd2cd",
+        "e410a11d1f1a45d6c19cd338714fcd1975a753eb",
+        "9042a6a18d1d8ec005d139aa186fc5dce9153412"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "2a012d68d3e823d2f1e33c52af09ec7a95ed3590",
+      "title": "Exploiting hybrid models for spectrum access: Building on the capabilities of geolocation databases",
+      "paperAbstract": "Current approaches to managing spectrum are polarized and inflexible. They underplay the value that license exemption and opportunistic access could deliver. This paper describes how new geolocation database technology could enable the use of hybrid models combining the advantages of licensing with those of license exemption. It considers how such models could help accelerate infrastructure investment for wireless broadband access, as well as facilitating innovation in wireless technology and services.",
+      "authors": [
+        {
+          "name": "Andrew Stirling",
+          "ids": [
+            "40631927"
+          ]
+        }
+      ],
+      "year": 2011,
+      "venue": "2011 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)",
+      "journalName": "2011 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "2e237a3d999ff7078225530cc6f196b85cfd6a23",
+      "title": "Surgical correction of prognathism.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "G W Hoffman",
+          "ids": [
+            "40221788"
+          ]
+        }
+      ],
+      "year": 1974,
+      "venue": "Southern medical journal",
+      "journalName": "Southern medical journal",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "436f84846787adf9403fe57e979dd63c9f963c3a",
+      "title": "[Experimental and clinical physiological data to substantiate lower levels of mineralization of desalinated drinking water].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Iu A Rakhmanin",
+          "ids": [
+            "14967876"
+          ]
+        },
+        {
+          "name": "A I Bokina",
+          "ids": [
+            "6289489"
+          ]
+        },
+        {
+          "name": "V P Plugin",
+          "ids": [
+            "13795970"
+          ]
+        },
+        {
+          "name": "T A Grishelevich",
+          "ids": [
+            "16317276"
+          ]
+        },
+        {
+          "name": "R I Mikhaĭlova",
+          "ids": [
+            "13450707"
+          ]
+        }
+      ],
+      "year": 1975,
+      "venue": "Gigiena i sanitariia",
+      "journalName": "Gigiena i sanitariia",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "7c8c7b11469f4c0181030451d748b2285df8eb19",
+      "title": "DNA microarrays in dermatology and skin biology.",
+      "paperAbstract": "Because of its accessibility, skin has been among the first organs analyzed using DNA microarrays. Skin cancers, melanomas, and basal and squamous cell carcinomas have been intensely investigated because they are very frequent and can be fatal. Psoriasis, one of the most common human inflammatory diseases, has been studied comprehensively using DNA microarrays. In addition, epidermal keratinocytes have been the target of many studies because they respond to a rich variety of inflammatory and immunomodulating cytokines, hormones, vitamins, ultraviolet (UV) light, toxins, and physical injury. Because of the ethical considerations, the effects of harmful or dangerous agents on skin have been studied using artificial skin substitutes. Transcriptional mechanisms that regulate epidermal differentiation and cornification have begun to yield their mysteries, and very exciting recent studies identified the genes specifically expressed in epidermal stem cells. Thus, skin has everything: stem cells, differentiation, signaling, inflammation, diseases, and cancer. All these exciting facets of skin have been explored using DNA microarrays. Researchers in skin biology and dermatology were among the first to implement this technology and we expect that they will continue to generate exciting and useful new knowledge.",
+      "authors": [
+        {
+          "name": "Miroslav Blumenberg",
+          "ids": [
+            "15007586"
+          ]
+        }
+      ],
+      "year": 2006,
+      "venue": "Omics : a journal of integrative biology",
+      "journalName": "Omics : a journal of integrative biology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "c3d50a5bbd473a788aa3547e0ba8105da42bfed3",
+      "title": "Control of fed-batch bioreactors by a hybrid on-line optimal control strategy and neural network estimator",
+      "paperAbstract": "It is known that the performance of an optimal control strategy obtained from an off-line computation is degraded under the presence of model–plant mismatch. In order to improve the control performance, a hybrid neural network and on-line optimal control strategy are proposed in this study and demonstrated for the control of a fed-batch bioreactor for ethanol fermentation. The information of the optimal feed profile of the fed-batch reactor. The simulation results show that the neural network provides a good estimate of unmeasured variables and the on-line optimal control with the neural network estimator gives a better control performance in terms of the amount of the desired ethanol product, compared with a conventional off-line optimal control method. & 2009 Elsevier B.V. All rights reserved.",
+      "authors": [
+        {
+          "name": "Amornchai Arpornwichanop",
+          "ids": [
+            "2069255"
+          ]
+        },
+        {
+          "name": "Natthapong Shomchoam",
+          "ids": [
+            "2383238"
+          ]
+        }
+      ],
+      "year": 2009,
+      "venue": "Neurocomputing",
+      "journalName": "Neurocomputing",
+      "outCitations": [
+        "5404a2295c774354548bfe6d6ca9792fdf74c38a",
+        "9e627b0627a7817815f5ea6da83f99b02c4cf0c0",
+        "2e597983684f74c330e906debade176be97291ad",
+        "aa681962dd8121a0a4609170fd20931f0bb8a746",
+        "4419945c5ec920c259982557c068b15b5aa92e39"
+      ],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "b57efec40eef10779b630519d33ca7e7cc0ff2c5",
+      "title": "Impact of cataract surgery. A population based approach",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Monestam",
+          "ids": [
+            "30134322"
+          ]
+        }
+      ],
+      "year": 1999,
+      "venue": "Acta ophthalmologica Scandinavica",
+      "journalName": "Acta ophthalmologica Scandinavica",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "bc41314016d34168775608ef75b692a72dfd57db",
+      "title": "Total resection of the aortic arch intimal sarcoma using the L-incision technique.",
+      "paperAbstract": "A 26-year-old male suffering from sudden right lower abdominal pain and lumbago was referred to our hospital. Enhanced computed tomography demonstrated bilateral kidneys and spleen infarctions, and a large tumour was found occupying the aortic arch and thoracic descending aorta. We suspected that these infarctions were due to tumour embolization. The aortic arch and thoracic descending aorta were resected with the tumour and then reconstructed using the L-incision technique. A microscopic examination revealed the presence of an intimal sarcoma. The patient was treated with adjuvant chemotherapy and showed a good postoperative course. Neither recurrence nor metastasis has been observed during the 3 years since the operation.",
+      "authors": [
+        {
+          "name": "Hirofumi Onitsuka",
+          "ids": [
+            "7323282"
+          ]
+        },
+        {
+          "name": "Takahiro Nishida",
+          "ids": [
+            "8329784"
+          ]
+        },
+        {
+          "name": "Koichi Akashi",
+          "ids": [
+            "3149502"
+          ]
+        },
+        {
+          "name": "Ryuji Tominaga",
+          "ids": [
+            "3980112"
+          ]
+        }
+      ],
+      "year": 2014,
+      "venue": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "journalName": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "outCitations": [
+        "9dd5275bff1933a0f32e93fe7b65bede1f691dbe",
+        "d3d86b29148c683da6522fdc10a52a60fce997a4",
+        "5477ef74d7d5a0ee751bc2210f89e39fe90b969c",
+        "0bfb620a2b4b85f86423aa451022212f3eb9a47b",
+        "d2197f4c267f30996df64f9b7335ff73019bd5af"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "90c1b508f617af4830e4db2291311638835f9178",
+      "title": "Optimum characteristic and structural design of PWB radiation detector considering gas amplification reaction",
+      "paperAbstract": "Radiation detector to act as radiation sensor is made by printed circuit board technology for realizing the micro pixel patterns on the large-sized substrate. To improve the radiation sensitively of PWB sensor, it is necessary to enhance the electric discharge properties around pixels under high-voltage condition. We therefore studied the insulating properties of PWB dielectric material experimentally and evaluated PWB sensor structures utilizing simulation technology with the gas amplification process of a recoil electron and read-out signal on sensor electrode. As these results, we could decide about a design and development guideline for a PWB radiation detector products.",
+      "authors": [
+        {
+          "name": "Kohei Ota",
+          "ids": [
+            "31914089"
+          ]
+        },
+        {
+          "name": "Motonori Oono",
+          "ids": [
+            "31203632"
+          ]
+        },
+        {
+          "name": "Tomohisa Motomura",
+          "ids": [
+            "31301876"
+          ]
+        }
+      ],
+      "year": 2015,
+      "venue": "2015 International Conference on Electronic Packaging and iMAPS All Asia Conference (ICEP-IAAC)",
+      "journalName": "2015 International Conference on Electronic Packaging and iMAPS All Asia Conference (ICEP-IAAC)",
+      "outCitations": [
+        "bcb61c8c2401ae9dc0ab555409d5d5da67e64053"
+      ],
+      "sources": []
+    },
+    {
+      "id": "37ead98ee48675f8169e84aae957f9ffb354d69a",
+      "title": "[Risk of coronary disease and psycho-socio-occupational factors in a group of assembly-line workers].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "M Ferrario",
+          "ids": [
+            "1838544"
+          ]
+        },
+        {
+          "name": "G C Cesana",
+          "ids": [
+            "2236350"
+          ]
+        },
+        {
+          "name": "R Zanettini",
+          "ids": [
+            "5480199"
+          ]
+        },
+        {
+          "name": "G Depascale",
+          "ids": [
+            "15405179"
+          ]
+        },
+        {
+          "name": "A Mastropasqua",
+          "ids": [
+            "5592740"
+          ]
+        },
+        {
+          "name": "A Grieco",
+          "ids": [
+            "2257008"
+          ]
+        }
+      ],
+      "year": 1986,
+      "venue": "La Medicina del lavoro",
+      "journalName": "La Medicina del lavoro",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "9502481f3a91a65763728c5c7a1bb27e86431015",
+      "title": "Computer optimization of pharmaceutical formulations. II. Application in troubleshooting.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "J B Schwartz",
+          "ids": [
+            "4405297"
+          ]
+        },
+        {
+          "name": "J R Flamholz",
+          "ids": [
+            "2447245"
+          ]
+        },
+        {
+          "name": "R H Press",
+          "ids": [
+            "35642469"
+          ]
+        }
+      ],
+      "year": 1973,
+      "venue": "Journal of pharmaceutical sciences",
+      "journalName": "Journal of pharmaceutical sciences",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "bed53009222458c03602279a6836dff12f2df755",
+      "title": "A monoclinic form of dendocarbin A: a borderline case of one-dimensional isostructural polymorphism.",
+      "paperAbstract": "The title compound, dendocarbin A [systematic name: (1R,5aS,9aS,9bR)-1-hydroxy-6,6,9a-trimethyldodecahydronaphtho[1,2-c]furan-3-one], C15H22O3, is a sesquiterpene lactone isolated from Drimys winteri var chilensis. The monoclinic phase described herein displays an identical molecular structure to the orthorhombic phase that we reported previously [Paz Robles et al. (2014). Acta Cryst. C70, 1007-1010], while varying significantly in chain pitch, and can thus be considered as a borderline case of one-dimensional isostructural polymorphism.",
+      "authors": [
+        {
+          "name": "Cristian Paz",
+          "ids": [
+            "9650544"
+          ]
+        },
+        {
+          "name": "Viviana Burgos",
+          "ids": [
+            "12187069"
+          ]
+        },
+        {
+          "name": "Sebastián Suarez",
+          "ids": [
+            "33472460"
+          ]
+        },
+        {
+          "name": "Ricardo Baggio",
+          "ids": [
+            "2180132"
+          ]
+        }
+      ],
+      "year": 2015,
+      "venue": "Acta crystallographica. Section C, Structural chemistry",
+      "journalName": "Acta crystallographica. Section C, Structural chemistry",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "7aedc238d6d5af6f53659ad2d650a0a76ed1bfb6",
+      "title": "[Electrocardiographic indices in dogs under normal conditions and in experimental myocardial infarct].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "M G SHEVCHUK",
+          "ids": [
+            "14164200"
+          ]
+        },
+        {
+          "name": "M M BEREZHNITS'KII",
+          "ids": [
+            "17079420"
+          ]
+        }
+      ],
+      "year": 1963,
+      "venue": "Fiziolohichnyi zhurnal",
+      "journalName": "Fiziolohichnyi zhurnal",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "eb3ad31aace74a5c75a7093d5521a082be508b1d",
+      "title": "Ontogeny of the nasopalatine duct in primates.",
+      "paperAbstract": "Ecological explanations have been put forward to account for the precocious or delayed development of patency in ducts leading to the vomeronasal organ (VNO) in certain mammals. Perinatal function may be related, in part, to the patency or fusion of the vomeronasal and nasopalatine (NPD) ducts. However, few studies have focused on NPD development in primates, which generally have a prolonged period of dependence during infancy. In this study we examined 24 prenatal primates and 13 neonatal primates, and a comparative sample of fetal mice and insectivores. In embryonic and early fetal Microcebus murinus, the NPD was completely fused, whereas in fetuses of later stages the duct was partially fused or completely patent. M. myoxinus of all stages demonstrated some degree of NPD fusion. In all other prenatal primates, the NPD was fused to some extent. Four prenatal insectivores (Tenrec ecaudatus) showed some degree of NPD fusion. In Mus musculus at 19 days gestation, the NPD was patent, although the anatomically separate VNO duct was fused. T. ecaudatus and most of the neonatal primates revealed complete NPD patency. An exception was Saguinus geoffroyi, which exhibited fusion of the NPD near the VNO opening. These observations may relate to differences in perinatal VNO function. The differences noted in our study suggest that M. murinus and M. myoxinus may differ in perinatal VNO functionality and perhaps in related behavior. Observations of neonatal primates suggest that NPD patency may be relatively common at birth and could serve other purposes in addition to being an access route for VNO stimuli.",
+      "authors": [
+        {
+          "name": "Kristin L Shimp",
+          "ids": [
+            "5996705"
+          ]
+        },
+        {
+          "name": "Kunwar P Bhatnagar",
+          "ids": [
+            "6549514"
+          ]
+        },
+        {
+          "name": "Christopher J Bonar",
+          "ids": [
+            "6309616"
+          ]
+        },
+        {
+          "name": "Timothy D Smith",
+          "ids": [
+            "40068724"
+          ]
+        }
+      ],
+      "year": 2003,
+      "venue": "The anatomical record. Part A, Discoveries in molecular, cellular, and evolutionary biology",
+      "journalName": "The anatomical record. Part A, Discoveries in molecular, cellular, and evolutionary biology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "d073effd913ebc1a6db2632cec2c2dc255a1e568",
+      "title": "[Pathologic mechanisms in the development of psoriatic lesions].",
+      "paperAbstract": "Psoriasis is a chronic recessive disease of unknown etiology, insufficiently explained and with a rather complex pathogenesis. In this paper the role of polymorphonuclear leukocytes, products lipids (arachidonic acid, leukotriene, 12-hydroxyeicosatetraenoic acid and the others) has been considered, as well as some immunological moments and the role of complements and platelet activating factor. It has not been explained up to now which one of these factors has the main role in the psoriatic lesion development. The primary defect in this genetically determined disease is unknown. All the elements listed in the sequence of events have secondary or tertiary significance.",
+      "authors": [
+        {
+          "name": "N Mutevelić-Arslanagić",
+          "ids": [
+            "12862745"
+          ]
+        }
+      ],
+      "year": 1992,
+      "venue": "Lijecnicki vjesnik",
+      "journalName": "Lijecnicki vjesnik",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "ccd6a985061641e57cc746880477de90d7501bc1",
+      "title": "Diffuse esophageal intramural pseudodiverticulosis.",
+      "paperAbstract": "I have reported a case of esophageal pseudodiverticulosis, a benign disorder consisting of dysphagia and esophageal stricture. The diagnosis is made by the radiologic findings of multiple outpouchings into the esophageal wall. The disorder appears to be related to abnormal submucosal glands of the esophagus. No coexistent diseases have been found, and except for treatment of the associated esophageal stricture no specific therapy is required.",
+      "authors": [
+        {
+          "name": "P W Cronen",
+          "ids": [
+            "12815080"
+          ]
+        }
+      ],
+      "year": 1984,
+      "venue": "Southern medical journal",
+      "journalName": "Southern medical journal",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "8af0ebbc56682cab7e0ac0b5823e21ffd2c1019c",
+      "title": "[Hemoglobinopathies].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "E Hauptmann",
+          "ids": [
+            "4939308"
+          ]
+        },
+        {
+          "name": "I Ruzdić",
+          "ids": [
+            "13848420"
+          ]
+        }
+      ],
+      "year": 1965,
+      "venue": "Lijecnicki vjesnik",
+      "journalName": "Lijecnicki vjesnik",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "eec7edcd93ee9d86debce1193dc6edeaa4953212",
+      "title": "[A case of tuberculosis of the esophagus].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Y Furuya",
+          "ids": [
+            "4101887"
+          ]
+        },
+        {
+          "name": "S Kobayashi",
+          "ids": [
+            "1853384"
+          ]
+        },
+        {
+          "name": "Y Higuchi",
+          "ids": [
+            "2056695"
+          ]
+        }
+      ],
+      "year": 1970,
+      "venue": "Nihon Igaku Hoshasen Gakkai zasshi. Nippon acta radiologica",
+      "journalName": "Nihon Igaku Hoshasen Gakkai zasshi. Nippon acta radiologica",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "169888ce740ca928bfd5b214d3a6a55a7a991e83",
+      "title": "Secular trends in cancer mortality among Japanese immigrants in the state of São Paulo, Brazil, 1979-2001.",
+      "paperAbstract": "We investigated secular trends in cancer mortality among first-generation Japanese-Brazilians in the state of São Paulo between 1979 and 2001. Results were compared with those for Japanese living in Japan and Brazilians living in the state of São Paulo. We used mortality data for three periods, 1979-1981, 1989-1991, and 1999-2001, and population data from Brazilian censuses in 1980, 1991, and 2000 for Japanese-Brazilians. Available mortality and population data for Japanese living in Japan and Brazilians living in the state of São Paulo corresponding to those for Japanese-Brazilians were obtained. Age-standardized mortality rates for Japanese-Brazilians and standardized mortality ratios based on mortality of Japanese living in Japan in 1980 for the three different periods and populations were calculated. We observed a decreasing trend for stomach cancer and increasing trends for colon, breast and prostate cancer over the 20 years in all three populations. Standardized mortality ratios for stomach cancer in Japanese-Brazilians declined to approximately those of Japanese living in Japan. Although standardized mortality ratios from colon, breast and prostate cancer in Japanese-Brazilians increased over the last 20 years, those for colon cancer were similar to the Japanese living in Japan whereas those for breast and prostate cancer (208 and 423 in 2000, respectively) appeared to be intermediate between those for Japanese living in Japan (152 and 208 in 2000, respectively) and Brazilians living in the state of São Paulo (281 and 536 in 2000, respectively). Standardized mortality ratios for liver and lung cancer increased in Japanese living in Japan over the last 20 years but no increasing trend was observed for Japanese-Brazilians, except for liver cancer in men, and standardized mortality ratios in Japanese-Brazilians seemed to be similar to the Brazilians living in the state of São Paulo. Secular trends in mortality confirm the relative importance of environment in the development of cancer.",
+      "authors": [
+        {
+          "name": "Motoki Iwasaki",
+          "ids": [
+            "35089098"
+          ]
+        },
+        {
+          "name": "Cecilia Polidoro Mameri",
+          "ids": [
+            "12231987"
+          ]
+        },
+        {
+          "name": "Gerson Shigueaki Hamada",
+          "ids": [
+            "4773320"
+          ]
+        },
+        {
+          "name": "Shoichiro Tsugane",
+          "ids": [
+            "1941240"
+          ]
+        }
+      ],
+      "year": 2008,
+      "venue": "European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation",
+      "journalName": "European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "54e6733f90002f9e1be74075ef371cf28d3d8b45",
+      "title": "Fault Tolerant Maximum Likelihood Event Localization in Sensor Networks Using Binary Data",
+      "paperAbstract": "This paper investigates Wireless Sensor Networks (WSNs) for achieving fault tolerant localization of an event using only binary information from the sensor nodes. In this context, faults occur due to various reasons and are manifested when a node outputs a wrong decision. The main contribution of this paper is to propose the Fault Tolerant Maximum Likelihood (FTML) estimator. FTML is compared against the Centroid (CE) and the classical maximum likelihood (ML) estimators and is shown to be significantly more fault tolerant. Moreover, this paper compares FTML against the SNAP (Subtract on Negative Add on Positive) algorithm and shows that in the presence of faults the two can achieve similar performance; FTML is slightly more accurate while SNAP is computationally less demanding and requires fewer parameters.",
+      "authors": [
+        {
+          "name": "Michalis P. Michaelides",
+          "ids": [
+            "3345015"
+          ]
+        },
+        {
+          "name": "Christoforos Panayiotou",
+          "ids": [
+            "1783902"
+          ]
+        }
+      ],
+      "year": 2009,
+      "venue": "IEEE Signal Processing Letters",
+      "journalName": "IEEE Signal Processing Letters",
+      "outCitations": [
+        "2ce66b18cfc6a8e7fd46b03e1a93189f6460942b",
+        "0bd2bbdd22456c0ccd64dc4cbf7ef281f6703268",
+        "4880c36ae3197296e9e37448f96384bd7c9181c3",
+        "7c986bf2af4ac3b532f8aa794646353095abdf32",
+        "474a139ee7b4223ca1e37b61665ddc8214528dce",
+        "148b1e734b31ed27bfb2ba58b25b7f1f364fcaa9",
+        "09a28aef56da5d4ef05e0e1608443ae770bd4b9d",
+        "995de4b8ff57766d5e22f97a28798cc9e2d1662c",
+        "8430c9599d1823a5c4cec98d9c8e30123fc271e3"
+      ],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "bba5370010f0d67cda0e347edda1f7a006e8d0ab",
+      "title": "Correlation between clinical features and magnetic resonance imaging findings in lumbar disc prolapse",
+      "paperAbstract": "BACKGROUND\nLumbar disc prolapse is one of the common causes of low back pain seen in the working population. There are contradictorty reports regarding the clinical significance of various magnetic resonance imaging (MRI) findings observed in these patients. The study was conducted to correlate the abnormalities observed on MRI and clinical features of lumbar disc prolapse.\n\n\nMATERIALS AND METHODS\n119 clinically diagnosed patients with lumbar disc prolapse were included in the study. Clinical evaluation included pain distribution, neurological symptoms and signs. MR evaluation included grades of disc degeneration, type of herniation, neural foramen compromise, nerve root compression, and miscellaneous findings. These MRI findings were tested for inter- and intraobserver variability. The MRI findings were then correlated with clinical symptoms and the level of disc prolapse as well as neurological signs and symptoms. Statistical analysis included the Kappa coefficient, Odd's ratio, and logistic regression analysis.\n\n\nRESULTS\nThere were no significant inter- or intraobserver variations for most of MRI findings (Kappa value more than 0.5) except for type of disc herniation which showed a interobserver variation of 0.46 (Kappa value). The clinical level of pain distribution correlated well with the MRI level (Kappa 0.8), but not all disc bulges produced symptoms. Central bulges and disc protrusions with thecal sac compression were mostly asymptomatic, while centrolateral protrusions and extrusions with neural foramen compromise correlated well with the dermatomal distribution of pain. Root compression observed in MRI did not produce neurological symptoms or deficits in all patients but when deficits were present, they correlated well with the presence of root compression in MRI. Multiple level disc herniations with foramen compromise were strongly associated with the presence of neurological signs.\n\n\nCONCLUSIONS\nThe presence of centrolateral protrusion or extrusion with gross foramen compromise correlates with clinical signs and symptoms very well, while central bulges and disc protrusions correlate poorly with clinical signs and symptoms. The presence of neural foramen compromise is more important in determining the clinical signs and symptoms while type of disc herniation (bulge, protrusion, or extrusion) correlates poorly with clinical signs and symptoms.",
+      "authors": [
+        {
+          "name": "Aithala P Janardhana",
+          "ids": [
+            "6501609"
+          ]
+        },
+        {
+          "name": "Rajagopal",
+          "ids": [
+            "3323647"
+          ]
+        },
+        {
+          "name": "Sharath Rao",
+          "ids": [
+            "1818468"
+          ]
+        },
+        {
+          "name": "Asha Kamath",
+          "ids": [
+            "3737108"
+          ]
+        }
+      ],
+      "year": 2010,
+      "venue": "Indian journal of orthopaedics",
+      "journalName": "",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "32358206c0e0d9c988c789d5d9d192c436ed031e",
+      "title": "Dressing Percentage of Four Croatian Common Carp (cyprinus Carpio L.) Populations",
+      "paperAbstract": "The morphometric traits were determined on the sample of 459 marketable size common carp from the four Croatian fish farms. There traits were analyzed by the classical methods in order to determine the influence of population, scaliness, age and sex on the dressing percentage. The obtained results show the existence of different phenotypes of common carps at Croatian farms, primarily, morphometric differences. However, the sygnificant diferences of dressing percentage among the populations were not registered (p>0.05). The significant difference between the dressing percentages of scaled and mirror carps was not detected (p>0.05), what leads to the conclusion that the scaliness does not influence dressing percentage significantly. The age and sex also, dit not show significant influence on dressing percentage. As the carps were sampled in winter the differences in dressing percentage caused by the different maturation of males and females were excluded.",
+      "authors": [
+        {
+          "name": "R. Safner",
+          "ids": [
+            "4872477"
+          ]
+        },
+        {
+          "name": "T. Treer",
+          "ids": [
+            "3725064"
+          ]
+        },
+        {
+          "name": "I. Anii",
+          "ids": []
+        },
+        {
+          "name": "A. Kolak",
+          "ids": [
+            "8054837"
+          ]
+        }
+      ],
+      "year": null,
+      "venue": "",
+      "journalName": "",
+      "outCitations": [
+        "52602a8a3425e2b51bcb289352a2310e64343300",
+        "5db3b167c77d06ac52e626cfd3d4bdde6937d320",
+        "c72d4a1304ee2628ad856919de1c3958462d2a2f"
+      ],
+      "sources": []
+    },
+    {
+      "id": "331270e4374bd008988c117a7f20afc323aa9321",
+      "title": "Effect of Controls on Stability",
+      "paperAbstract": "DURING the War the introduction of governmental controls has led to many matters being dealt with by an order fixing some quantity, price or other variable where a laissez-faire system would have allowed them to find their own levels. As examples we have rates of foreign exchange, wages and prices. Not only has this fixing occurred in many instances during the War, but a further extension of control or planning in peace will probably lead to even more variables being fixed in this way.",
+      "authors": [
+        {
+          "name": "W. R. ASHBY",
+          "ids": [
+            "3396767"
+          ]
+        }
+      ],
+      "year": 1945,
+      "venue": "Nature",
+      "journalName": "Nature",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "2a69e806a42bf401017c9c9b6b1c1efb1430c541",
+      "title": "Effects of Virtual Human Appearance Fidelity on Emotion Contagion in Affective Inter-Personal Simulations",
+      "paperAbstract": "Realistic versus stylized depictions of virtual humans in simulated inter-personal situations and their ability to elicit emotional responses in users has been an open question for artists and researchers alike. We empirically evaluated the effects of near visually realistic vs. non-realistic stylized appearance of virtual humans on the emotional response of participants in a medical virtual reality system that was designed to educate users in recognizing the signs and symptoms of patient deterioration. In a between-subjects experiment protocol, participants interacted with one of three different appearances of a virtual patient, namely visually realistic, cartoon-shaded and charcoal-sketch like conditions in a mixed reality simulation. Emotional impact were measured via a combination of quantitative objective measures were gathered using skin Electrodermal Activity (EDA) sensors, and quantitative subjective measures such as the Differential Emotion Survey (DES IV), Positive and Negative Affect Schedule (PANAS), and Social Presence questionnaire. The emotional states of the participants were analyzed across four distinct time steps during which the medical condition of the virtual patient deteriorated (an emotionally stressful interaction), and were contrasted to a baseline affective state. Objective EDA results showed that in all three conditions, male participants exhibited greater levels of arousal as compared to female participants. We found that negative affect levels were significantly lower in the visually realistic condition, as compared to the stylized appearance conditions. Furthermore, in emotional dimensions of interest-excitement, surprise, anger, fear and guilt participants in all conditions responded similarly. However, in social emotional constructs of shyness, presence, perceived personality, and enjoyment-joy, we found that participants responded differently in the visually realistic condition as compared to the cartoon and sketch conditions. Our study suggests that virtual human appearance can affect not only critical emotional reactions in affective inter-oersonal trainina scenarios. but also users' oerceotions of oersonalitv and social characteristic of the virtual interlocutors.",
+      "authors": [
+        {
+          "name": "Matias Volante",
+          "ids": [
+            "3388418"
+          ]
+        },
+        {
+          "name": "Sabarish V. Babu",
+          "ids": [
+            "13946315"
+          ]
+        },
+        {
+          "name": "Himanshu Chaturvedi",
+          "ids": [
+            "7786763"
+          ]
+        },
+        {
+          "name": "Nathan D. Newsome",
+          "ids": [
+            "2698078"
+          ]
+        },
+        {
+          "name": "Elham Ebrahimi",
+          "ids": [
+            "2546768"
+          ]
+        },
+        {
+          "name": "Tania Roy",
+          "ids": [
+            "1733374"
+          ]
+        },
+        {
+          "name": "Shaundra Bryant Daily",
+          "ids": [
+            "1959041"
+          ]
+        },
+        {
+          "name": "Tracy Fasolino",
+          "ids": [
+            "3043236"
+          ]
+        }
+      ],
+      "year": 2016,
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "journalName": "IEEE Transactions on Visualization and Computer Graphics",
+      "outCitations": [
+        "241efe78f739978fb2112a782d86577ed32f0b42",
+        "5a5aebdb14371d05d259e112cf6a62c9d58789bd",
+        "1ee1419e1f3330a9785bcb43d80978ba856fd0c5",
+        "ff5d2eff8fcdc37ff73150bddc78e2357804d47e",
+        "990218120d24c284bf3de746dc138461f095cc5d",
+        "2383bfbb137b7d15ffc409f6248f3f710a7809bf",
+        "6bea7b18c36c991ab98621aa24db28b6616c3d1c",
+        "60b87918ccf56f6b1a8681b5a2f671ba8ab4614c",
+        "a7eea8b15f638da180c58e55e433a4e8b34efe1f",
+        "2ebc991ce69374e95fa1c38606f1889a1ac44e95",
+        "bef5f41d8ee45079d92130adfb06d84adcd166a0",
+        "11e187194a5f60972942893ebfccdab68d5dc6bd",
+        "34725f335a295a20679d25afae2882ef147e3560",
+        "73b0ded0ea6704dd0e02a60b4693891ece22d8b2",
+        "899f91390e4e4c9cf07d1248671d46d2841b4f26",
+        "c8d5565f13d4093500177c631927a6c4081f4bb1",
+        "e328ec2eedb5f8795bceef1628d6610e165a0810",
+        "2e5bff6d11fd272a68e368d0214f8120e3ddc742",
+        "a7126713296c77352df87eb36fb54d3c71427d88",
+        "e104be5e31bacff3e71191732a14656ef13c0302",
+        "46f332fa533182801dee03a575aee77331376f91",
+        "07fc879e0fa4d07600a2f8d6d84e4d28960ccf14",
+        "1d2b4d98b90a6557bf7ad8f482db4220efd5c45d",
+        "100bed2dd02d047381791564b948cdc83fa9153c",
+        "eaf3bde8c4da7be3ba18bbffae2e602840522f30",
+        "c787a3156bc3d20d4d505a831d463892d764f537",
+        "c596b7c2885beba93921b97d671e9b919cc79990",
+        "4ca85470edf8a5499921ac35209887e013b64a9b",
+        "772ce66315c2f6d0108e6404ce91034fae3a37ae",
+        "1c92ac050dc7df429f13c3e9d23df5bda4bdbfca",
+        "6703ffc5d34f0fd4c574a9a72bb16127237e83ed",
+        "712410f2b20c831678f71db35ec01ba1b38bc842"
+      ],
+      "sources": [
+        "DBLP",
+        "Medline"
+      ]
+    },
+    {
+      "id": "dc6241508fe1d75ef247f805654fa250e8005e23",
+      "title": "Prognostic Significance of C-Reactive Protein Polymorphism and KRAS/BRAF in Synchronous Liver Metastasis from Colorectal Cancer",
+      "paperAbstract": "BACKGROUND\nThe liver is the most common target organ in the metastasis of colorectal cancer (CRC). Synchronous liver metastases may confer a poorer prognosis than metachronous metastases, and genetic alterations and an inflammatory response have also been associated with a poor prognosis in cases of a liver metastasis arising from CRC. However, few studies have examined the relationship between KRAS mutations and inflammatory status in CRC, especially with respect to liver metastases.\n\n\nMETHODS\nThe effect of the activated mitogen-activated protein kinase pathway and another protein involved in inflammation, C-reactive protein, in liver metastases were examined. We aimed to determine the impact of the CRP-specific single nucleotide polymorphism (SNP) rs7553007 in liver metastasis on the CRC-specific survival (CSS) of patients after colorectal liver metastasectomy.\n\n\nRESULTS\nWe found no significant differences in genotype distributions and allele frequencies at the CRP SNP rs7553007 between CRC patients with liver metastasis and the control group. CSS rates were low in the subgroup of patients with synchronous metastasis with the A-allele (A/A and A/G) at rs7553007 or mutated KRAS/BRAF in liver metastatic specimens. Furthermore, the CRP SNP rs7553007 (hazard ratio [HR] = 1.101; 95% confidence interval [CI] = 1.011-1.200; P = 0.027) and KRAS/BRAF mutations (HR = 2.377; 95% CI = 1.293-4.368; P = 0.005) remained predictive for the CSS of CRC patients with synchronous liver metastasis in multivariate analysis.\n\n\nCONCLUSIONS\nBoth the CRP SNP rs7553007 and KRAS/BRAF mutations were independent prognostic factors for CRC patients with synchronous liver metastasis.",
+      "authors": [
+        {
+          "name": "Chi-Jung Huang",
+          "ids": [
+            "2666784"
+          ]
+        },
+        {
+          "name": "Hao-Wei Teng",
+          "ids": [
+            "4565755"
+          ]
+        },
+        {
+          "name": "Chih-Cheng Chien",
+          "ids": [
+            "33112042"
+          ]
+        },
+        {
+          "name": "Jen-Kou Lin",
+          "ids": [
+            "40147863"
+          ]
+        },
+        {
+          "name": "Shung-Haur Yang",
+          "ids": [
+            "4661637"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "PloS one",
+      "journalName": "",
+      "outCitations": [
+        "860be92b1d98b7f108e64ff92e5e1ad8f64028e1",
+        "e01ae7c23fac4948a2eddf978fe5cef2c186884e",
+        "15c294abdf9d710bf56eec4cddb58233ffb5ab98",
+        "3b8d9db892248930c7d3c5ccc1e2810fcfa03a16",
+        "1f6032d8b8abe2c15d747963cba9f8db343fefb0",
+        "3b26c336276747a2dbff3945e7a3cc186c5a785c",
+        "344a67ff86b034d494be92d16da84a37ff474b2d",
+        "42b638d40a84111e854d4e8fd6257cedfe61ac8d",
+        "3f38c558d7ccb7147e1f292d87e0975204905483",
+        "429dc47f099cf33717ce2de0974d0042f945955c",
+        "084c3c899d0494af4d3246820fd2d4d59b8b7c52",
+        "7dbf02b8007bf1ea47f39c6afbeaafd24ed3c3c0",
+        "987fa8eaa3c5aabe8d4d555fe0af15b7d02eabbc",
+        "89ba35591c3d18d733c2708ac8525e40b9cac789",
+        "7a19c2b79851d5e0e07d27977c1a1cecbff66dc3",
+        "874136f6bdb6f1b089fe7d862686516231024a88",
+        "4c03012defeef9b06720fbeb243bc2ac2b8f52cf",
+        "9a2b259f3cfcd358c4478f52b67c8570427ca446",
+        "f22e974332958f289f286650aa8a7a6366f36e6a",
+        "6dd2e5e5aeb3ac3eea3937dfb7ededdba8094181",
+        "409f41c64aa0a9f1f151b3db981cc78229cf14c8",
+        "c64cb62f0d8a42256dac1de2d820046229d23f5a",
+        "840b35ef8fddb10a8cb43803b5009627bf6f99a0",
+        "4af502b85d39fbbd0bb9049a2625ed3e5a5a83d5",
+        "e446c9f12e5b2e4bbdf5cf6ebc550c6a9e661c09",
+        "0f6a2ae03567d8711bafb171758bb3494ff11aee",
+        "d5b1f4359197c183486508e5a523b8ce1657635e",
+        "3622b316f1a2ba5798db55708073173d4b4f7ac1",
+        "8ccf61cc786483f2ddfb8b855bcd8c4e61a61f87",
+        "7ff337400db998be48c36e3e1fd46b2e8c215250",
+        "c56bcd996a325fc28b6dba5afa59255381182258",
+        "564e4cebb87829225e244c85ff8bf857dc5e2d55",
+        "3b80e58770a0faf2e5682aa3ead0c6c01f5807a9",
+        "46f246536a5834d9e896bb29ca1bb8970581875b"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "9d086b757124f3a79af27aabbd609780ef206783",
+      "title": "Optimizing the analysis of human intestinal microbiota with phylogenetic microarray.",
+      "paperAbstract": "Phylogenetic microarrays present an attractive strategy to high-throughput interrogation of complex microbial communities. In this work, we present several approaches to optimize the analysis of intestinal microbiota with the recently developed Microbiota Array. First, we determined how 16S rDNA-specific PCR amplification influenced bacterial detection and the consistency of measured abundance values. Bacterial detection improved with an increase in the number of PCR amplification cycles, but 25 cycles were sufficient to achieve the maximum possible detection. A PCR-caused deviation in the measured abundance values was also observed. We also developed two mathematical algorithms that aimed to account for a predicted cross-hybridization of 16S rDNA fragments among different species, and to adjust the measured hybridization signal based on the number of 16S rRNA gene copies per species genome. The 16S rRNA gene copy adjustment indicated that the presence of members of the class Clostridia might be overestimated in some 16S rDNA-based studies. Finally, we show that the examination of total community RNA with phylogenetic microarray can provide estimates of the relative metabolic activity of individual community members. Complementary profiling of genomic DNA and total RNA isolated from the same sample presents an opportunity to assess population structure and activity in the same microbial community.",
+      "authors": [
+        {
+          "name": "Laura Rigsbee",
+          "ids": [
+            "4909769"
+          ]
+        },
+        {
+          "name": "Richard Agans",
+          "ids": [
+            "34177104"
+          ]
+        },
+        {
+          "name": "Brent D Foy",
+          "ids": [
+            "12883758"
+          ]
+        },
+        {
+          "name": "Oleg Paliy",
+          "ids": [
+            "2264614"
+          ]
+        }
+      ],
+      "year": 2011,
+      "venue": "FEMS microbiology ecology",
+      "journalName": "FEMS microbiology ecology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "4d4fa00d3848080b2768329d1dbe77e510eee0b6",
+      "title": "What is a certified registered nurse anesthetist?",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "J Mazzoni-Coffey",
+          "ids": [
+            "12226562"
+          ]
+        },
+        {
+          "name": "B Farmer",
+          "ids": [
+            "37118185"
+          ]
+        }
+      ],
+      "year": 1995,
+      "venue": "Kentucky nurse",
+      "journalName": "Kentucky nurse",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "829d3bb379f28fca29b1639641a02b29d4b85e54",
+      "title": "A piece of my mind. Part-time medicine.",
+      "paperAbstract": "Part-time Medicine IT WAS 8 AM ON TUESDAY MORNING AND I LISTENED TO MY telephone messages in my office. “This is Sharon S.,” the first message played, “calling on Thursday. I think I’m having a urinary infection. Please call me back.” “It’s Sharon S.,” the next message played, “calling on Friday. I’m having a lot of burning when I urinate and wonder if I should be on antibiotics.” With a sinking feeling in my stomach, I quickly dialed Sharon’s number and unfortunately got an answering machine. I apologized for not getting her message sooner, explaining that the clinic was closed for a federal holiday on Thursday, and that Fridays and Mondays were the days that I didn’t work at the clinic. All of these were true statements, but as I recounted them before Sharon’s answering machine they sounded pathetic. I didn’t hear back from Sharon and felt worse. Although I later learned that she’d obtained appropriate treatment from her university health services, I still felt terrible. If Sharon had been less educated or didn’t speak English or was homebound, an untreated urinary tract infection could have progressed to pyelonephritis, even sepsis. Even though my voice mail greeting clearly states which days I’m not in the clinic and that I won’t be getting messages on those days and provides the phone number required for immediate attention, it is not uncommon to find messages with real urgency when I return to the office several days later. It is at these times that being a part-time physician feels as if I’m somehow shirking the Hippocratic Oath. I’m not there for my patients all the time like a physician should. During my “on” days, I work furiously like my colleagues, seeing all of my patients, squeezing in anyone who calls or shows up, supervising residents and students, following up ontest results, returningphonecalls, fillingoutmedical forms, writing letters for disability, housing, school, and work. But on my “off” days, I am officially off. I don’t go to the hospital, don’t check my voice mail, though I do carry my beeper for emergencies. If my patients need medical attention on those days, they have to be seen in our walk-in clinic, or go to the emergency department if it is after hours or on weekends. When this happens, I feel terribly guilty about being a part-timer, but I sometimes wonder whether this guilt is misplaced. Is there anything inherently wrong with working in medicine part-time? Between 10% and 20% of physicians define themselves as “part-time,” and pediatrics leads the pack for specialties conducive to part-time work. Patient trust and satisfaction with part-time physicians appear to be similar to that with full-time physicians. Part-time physicians report less burnout, higher satisfaction, and a greater sense of control than full-time physicians. The small studies that have been done on clinical outcomes suggest that part-time physicians achieve outcomes comparable to those of their full-time counterparts, and might even be more efficient. But, not surprisingly, part-time academic physicians fall behind their full-time colleagues in terms of promotion and tenure. Academic physicians view part-time faculty members as less committed, though they concede that parttimers ought to be considered for promotion and even given extra time, if needed, to achieve tenure. Conventional wisdom has it that most physicians choose part-time work so that they can balance work with family, and that these physicians are women. The statistics largely support this. But should part-time medicine be solely viewed as the hodgepodge mess that is left over when women cut their hours to have children? Perhaps part-time medicine is its own entity. Could the part-time physician be seen as another type of clinician—laboring alongside hospitalists, intensivists, pulmonologists, and nephrologists? Unlike most of my part-time colleagues, I did not become a part-time physician as a result of children. My career “choice” came about with more bureaucratic banality—a New York City budget crisis that caused a hiring freeze just as I was poised to begin my academic career. When the freeze unfroze, there was only a parttime spot available. Working part time had never once crossed my mind when I had envisioned my career, but there it was: a three-day-a-week offer, nothing else. I was single, unemployed, fresh out of residency, with 14 years worth of student loans coming due. I did the only pragmatic thing and snapped it up, hoping that maybe a fulltime position would open up later. What happened next was entirely unplanned and unexpected. With two days available each week, I suddenly had time to devote to my other interests in life—ones that had been decisively extirpated by medical training. I began reading literature—not the medical kind—and was finally able to pursue that nagging desire to write down some of the memorable experiences in medical school and residency. I didn’t plan to become a writer, but having those two days away from medicine allowed me to take writing classes and invest serious energy into this effort. Some time later, the much-coveted full-time position became available. Due to the inequities of how part-timers are",
+      "authors": [
+        {
+          "name": "Danielle Ofri",
+          "ids": [
+            "4366519"
+          ]
+        }
+      ],
+      "year": 2009,
+      "venue": "JAMA",
+      "journalName": "JAMA",
+      "outCitations": [
+        "db5fa6c36de8ce7a1a9261d4d8aeed348d321e18",
+        "0d87ec4f1418eafc29fd5bf35e8679c6866c5ece"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "92c543ca6b047e7e0af9a8591830a3b816700b8c",
+      "title": "Number of roles for female MDs mushrooming as century draws to close.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "B Sibbald",
+          "ids": [
+            "4573777"
+          ]
+        }
+      ],
+      "year": 1999,
+      "venue": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "journalName": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "7466be51503345a781748985fa52c93d2b61bc12",
+      "title": "Crude substance P from brain contains a cholecystokinin-like peptide",
+      "paperAbstract": "The subfractions Fa, Fb, and Fc of crude substance P (SP) preparations made from human and bovine brains were analysed for SP and the COOH-terminal octapeptide of cholecystokinin (CCK-8). The methods were specific radioimmunoassays (RIAs) for SP and CCK-8, and bioassays on isolated organs of the guinea pig: the ileum, the gallbladder and the field-stimulated vas deferens. 1. In bioassays of synthetic peptides the vas deferens reacted specifically to SP and the gallbladder to CCK-8. 2. RIAs and bioassays revealed unequivocally that most of SP-like activity was present in Fb, while Fc contained mainly CCK-8-like activity. Varying results were obtained with Fa. 3. The pharmacologically active principle of Fc is CCK-8 or a closely related peptide. Earlier results concerning the pharmacological and neurochemical properties of Fc must be ascribed to this peptide. In bioassays of synthetic peptides the vas deferens reacted specifically to SP and the gallbladder to CCK-8. RIAs and bioassays revealed unequivocally that most of SP-like activity was present in Fb, while Fc contained mainly CCK-8-like activity. Varying results were obtained with Fa. The pharmacologically active principle of Fc is CCK-8 or a closely related peptide. Earlier results concerning the pharmacological and neurochemical properties of Fc must be ascribed to this peptide.",
+      "authors": [
+        {
+          "name": "G. Zetler",
+          "ids": [
+            "7029915"
+          ]
+        },
+        {
+          "name": "D. Cannon",
+          "ids": [
+            "1713191"
+          ]
+        },
+        {
+          "name": "D. Powell",
+          "ids": [
+            "2170575"
+          ]
+        },
+        {
+          "name": "P. Skrabanek",
+          "ids": [
+            "3395142"
+          ]
+        },
+        {
+          "name": "J. J. Vanderhaeghen",
+          "ids": [
+            "3942060"
+          ]
+        }
+      ],
+      "year": 1978,
+      "venue": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+      "journalName": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "f4c48f9e13cdb8f80a416d65d6c1835fcf37622e",
+      "title": "Ochratoxin A levels in the plasma of healthy blood donors from Valencia and estimation of exposure degree: comparison with previous national Spanish data.",
+      "paperAbstract": "Blood plasma levels of ochratoxin A, a toxic secondary metabolite of several fungal species belonging to the genera Aspergillus and Penicillium, were determined in 168 blood donors from the population of Valencia (Spain) using LC-FLD. In conjunction with blood collection, detailed information on diet was obtained by using a questionnaire that encompassed a wide range of products potentially contaminated with the toxin. The investigation revealed a detection frequency of 100%. Mean level was 1.09 microg OTA/l of plasma and concentrations ranged between 0.15 and 5.71 microg OTA/l of plasma. Men's levels were slightly higher than levels observed in women. Results were analysed by Spearman rank correlation test and Gamma correlation statistic. There was no strong correlation between individual consumption of 26 food groups, described as possibly contaminated with OTA and plasma level of OTA. Multiple regression and factorial regression models were obtained explaining 14.9 and 64.4%, respectively, but they could not explain overall variability. Daily dietary intake of ochratoxin A was calculated on the basis of plasma toxin levels using the Breitholtz and Klassen formulae; for the overall population, mean values were 1.47 +/- 1.25 and 2.16 +/- 1.88 ng/kg bw/day, respectively. All results have been compared with other Spanish data.",
+      "authors": [
+        {
+          "name": "A Medina",
+          "ids": [
+            "2313383"
+          ]
+        },
+        {
+          "name": "E M Mateo",
+          "ids": [
+            "34945800"
+          ]
+        },
+        {
+          "name": "R J Roig",
+          "ids": [
+            "3454000"
+          ]
+        },
+        {
+          "name": "A Blanquer",
+          "ids": [
+            "1865144"
+          ]
+        },
+        {
+          "name": "M Jiménez",
+          "ids": [
+            "1702890"
+          ]
+        }
+      ],
+      "year": 2010,
+      "venue": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "journalName": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "19a6409463671cc85af475b55c5329e329246826",
+      "title": "Elastolytical activity in vitro and in vivo of the mycelial and spore forms of the Trichophyton Verrucosum strains.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "K Wawrzkiewicz",
+          "ids": [
+            "14040042"
+          ]
+        },
+        {
+          "name": "B Rubaj",
+          "ids": [
+            "15741103"
+          ]
+        },
+        {
+          "name": "G Ziolkowska",
+          "ids": [
+            "8398563"
+          ]
+        }
+      ],
+      "year": 1978,
+      "venue": "Mykosen",
+      "journalName": "Mykosen",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "9445fc5bffbad2c738f270e7b60a167c81d77370",
+      "title": "Evidence based medicine and patient centered medicine: some thoughts on thier integration.",
+      "paperAbstract": "Evidence-based medicine (EBM) and patient-centered medicine (PCM) are two movements that have emerged with great force in health systems in recent years. EBM has a population approach, and its primary objective is the generalization and improvement of health outcomes in the average patient. PCM has a personalized approach, focuses on individualization and improving health outcomes in specific patients. While EBM has its conceptual anchor in research, PCM has it in medical care. Despite EBM and PCM being perceived as conflicting movements, the profound changes that are currently taking place in health systems can facilitate the confluence of clinical research and medical care. This article constitutes a reflection on how research methods should approach the individual patient and medical practice should approach future patients. EBM and PCM, like research and medical practice, are two sides of the same coin, which should complement and aid each other. It is difficult to see how one of them can reach its full potential without the other as a continual reference, because PCM should not be practiced without being based on the best available evidence and it is impossible to imagine an EBM whose ultimate goal is disconnected from the individual patient.",
+      "authors": [
+        {
+          "name": "J A Sacristán",
+          "ids": [
+            "35190269"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "Revista clinica espanola",
+      "journalName": "Revista clinica espanola",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "87701653e42b406f25a6b335c3af8f09afd9237d",
+      "title": "Cognitive development and reading achievement in pervasive-add, situational-add and control children.",
+      "paperAbstract": "Studies on hyperactivity have shown the importance of distinguishing hyperactive children according to the pervasiveness of their symptoms. To verify the meaningfulness of this distinction in Attention Deficit Disorders, an epidemiological study was undertaken. Sixteen pervasive-ADD, nine situational-ADD and 28 non-ADD children selected from a general population were compared using different measures. The results show that pervasive-ADD differ from non-ADD children on verbal IQ and reading difficulties and support the distinction of ADD according to the pervasiveness of the symptoms.",
+      "authors": [
+        {
+          "name": "M Boudreault",
+          "ids": [
+            "3625636"
+          ]
+        },
+        {
+          "name": "J Thivierge",
+          "ids": [
+            "2089458"
+          ]
+        },
+        {
+          "name": "R Côté",
+          "ids": [
+            "2029640"
+          ]
+        },
+        {
+          "name": "P Boutin",
+          "ids": [
+            "2849816"
+          ]
+        },
+        {
+          "name": "Y Julien",
+          "ids": [
+            "2380837"
+          ]
+        },
+        {
+          "name": "S Bergeron",
+          "ids": [
+            "3974937"
+          ]
+        }
+      ],
+      "year": 1988,
+      "venue": "Journal of child psychology and psychiatry, and allied disciplines",
+      "journalName": "Journal of child psychology and psychiatry, and allied disciplines",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "4951368990c174aba5bd0fa566832fc5d0fc614d",
+      "title": "Uptake of quercetin reduces larval sensitivity to lambda-cyhalothrin in Helicoverpa armigera",
+      "paperAbstract": "Quercetin, one of the most abundant dietary flavonoids, is widely present in nature. In this study, the effects of quercetin ingestion on Helicoverpa armigera larvae growth and its sensitivity to lambda-cyhalothrin were assessed. The median lethal concentration (LC50) value of lambda-cyhalothrin to quercetin-fed H. armigera larvae was 2.39-fold higher than the control, suggesting a reduced sensitivity to lambda-cyhalothrin. Piperonyl butoxide (PBO) treatment effectively synergized lambda-cyhalothrin efficacy in quercetin-fed H. armigera larvae with a synergistic ratio of 2.36. Moreover, the growth of H. armigera larvae was inhibited by the quercetin uptake. To understand the reduced sensitivity to lambda-cyhalothrin, we measured the enzymatic activity of cytochrome P450 monooxygenases (P450s), as well as transcriptional responses of three P450s genes in quercetin-fed H. armigera larvae. We found that cytochrome P450 monooxygenases involved in the observed lambda-cyhalothrin tolerance in quercetin-fed H. armigera. After fed on quercetin for 48 h, 7-ethoxycoumarin-O-deethylase (ECOD) activity was significantly elevated in quercetin-fed H. armigera larvae; meanwhile, the expression level of CYP6B6, CYP6B8 and CYP321A1 was up-regulated. In conclusion, P450s played a crucial role in the metabolic adaptation of H. armigera larvae to its host plant’s secondary metabolites as well as synthetic insecticides. The reduced lambda-cyhalothrin sensitivity in quercetin-fed H. armigera larvae suggested that previous exposure to the host plant-derived quercetin is likely to compromise the efficacy of pyrethroid insecticides.",
+      "authors": [
+        {
+          "name": "Chengyu Chen",
+          "ids": [
+            "7863284"
+          ]
+        },
+        {
+          "name": "Peng Han",
+          "ids": [
+            "1977232"
+          ]
+        },
+        {
+          "name": "Weiyu Yan",
+          "ids": [
+            "8194961"
+          ]
+        },
+        {
+          "name": "Siyi Wang",
+          "ids": [
+            "1699658"
+          ]
+        },
+        {
+          "name": "Xueyan Shi",
+          "ids": [
+            "5684532"
+          ]
+        },
+        {
+          "name": "Xuguo Zhou",
+          "ids": [
+            "5477839"
+          ]
+        },
+        {
+          "name": "Nicolas Desneux",
+          "ids": [
+            "3684316"
+          ]
+        },
+        {
+          "name": "Xiwu Gao",
+          "ids": [
+            "5779392"
+          ]
+        }
+      ],
+      "year": 2017,
+      "venue": "Journal of Pest Science",
+      "journalName": "Journal of Pest Science",
+      "outCitations": [
+        "4b597037978be2430e979a2d7a65b766095006d7",
+        "44410bf79b512d6faeeb35da6f84ae88b664503a",
+        "9c627e1b3d69fdb12509a25ad79f17f3129e9539",
+        "218a205388efdf318af513f8fe07fc0d2299d37f",
+        "0cd50a83e6d7ed052518051500dca7282ef18cc6",
+        "54a28fbdf62449350cf8972ec53e832ec5efb229",
+        "5386a79450b0c807581d7ecb97afd844833ff855",
+        "6de0ea3d1ca504ff20f5a2bf063a9447f118317a",
+        "92c43bb0f3ee6a0efdc01eb0730c10e10fdb1a81",
+        "2a691c5d544e6e7db3354fec0b82c445730a20ec",
+        "2b60be442ae2a7f3be3df6c9950dc9b3e29ac166",
+        "8063baed5ba6db11a033a0cf2eb9e7927add9054",
+        "ad74fb3d409ed96f1ade9383411aaa46ba6c0bd5",
+        "27cedf8106208fdba09a5ad3b5cd75d07e391236",
+        "7ce22e78bf9c62c68231a05fe2fca11efed141ef",
+        "62b82b808a484648e96c101f27ae2a984729c7ec",
+        "2162347284709dd8001a53556bcebf96905a20e6",
+        "b88e5263c224be3acee38e18ff6d8a47310c2606",
+        "8b45d64ff6be3addcbdf3972a2e45bd6ebb179d1",
+        "6924888c13b1a5d044b72582eeb7797e2ab954ba",
+        "f16b286dfa6659253e0ddd1b2555945bf8ab4ba0",
+        "f9596800d0f20f9e1347c9e4bcdd008667bc524d",
+        "c445af4767724507a2e775b8aa77fe4db537d6f3",
+        "5c0b65a993a03f270b0b5a38702564fc4f774682",
+        "f1a6d9242cad21b9a01bdbbc45fe36fb49140c59",
+        "50693f2ab30f49c9656db57da48b37a3735741a7",
+        "b605f28987cefc1374874afa5c8f3d0b6b9e1ac7",
+        "20e7e71f67f942a8e8798cc328432585a32200ba",
+        "efdbea3fb9c49e87b15c8226db2c86b3ec57f1e7",
+        "1744249b829ddcfac4d44aeed0eaf2ee001bbcda",
+        "d96bf6d872fa31af6a4d805a706ca8bb5746165a",
+        "02b3365c8f4562244fc9a9f95bea1680ad1da9b7",
+        "041798d4ffff66c4a947c402edbac5d234477096",
+        "f24cd235a1803acf1fe297a7ab1780c7789981f3",
+        "7ddc5859031da1c37430c2dce97ac67bf7a35383",
+        "738867f847c07b157608380076fea70bd85a94ec",
+        "0649370b0921918b971c859b75b58985651efa9f",
+        "d72f381b1cb382c03850ab2a8da73db7cf0f74bb",
+        "9fb4bc8be578a817d166295aa5ab7fd80158f934",
+        "e9215055a4868b0220e30feec06d4a23d666b4ca",
+        "f96ae571313460c9cdf65057a112e4c150d53db7",
+        "47093740142114cb1edc747cb543dad257ed0843",
+        "b3a2b2986c7019606729d134d5d6d4f9c39380f8"
+      ],
+      "sources": []
+    },
+    {
+      "id": "e15d8875b95895634eeb0fc71d0c957d50ab152a",
+      "title": "Anti-apoptotic effect of banhasasim-tang on chronic acid reflux esophagitis",
+      "paperAbstract": "AIM\nTo evaluate the anti-apoptotic effect of banhasasim-tang (BHSST) on chronic acid reflux esophagitis (CARE) using a rat model.\n\n\nMETHODS\nA surgically-induced CARE model was established in Sprague-Dawley rats. The modeled rats were divided into a treatment group or untreated group, and given BHSST (1 g/kg body weight per day) or water, respectively, for 15 consecutive days (n = 7 each group). Changes in expression of proteins related to nicotinamide adenine dinucleotide phosphate (NADPH) oxidase and apoptosis were assessed by western blotting. Changes in esophageal pathology were analyzed by gross and histological examinations.\n\n\nRESULTS\nThe CARE exposure modeled rats showed increased levels of the NADPH oxidase subunit, NOX4 and p47phox in the esophagus. The BHSST treatment completely resolved these CARE-related increases. The CARE rats also showed markers of cytokine stress, including elevated levels of TNF-α and reactive oxygen species as well as of the consequent increase in JNK activation, and subsequent decrease in pro-survival gene expression, such as of Bcl-2. BHSST treatment resolved the CARE-related changes. BHSST also exerted an anti-apoptotic effect, as evidenced by altered expression of the apoptosis-related genes for bax, cytochrome c, and caspase 3. Finally, the BHSST treatment markedly ameliorated the CARE-related esophageal mucosal ulcerations.\n\n\nCONCLUSION\nIn the rat model of CARE, BHSST can suppress development of esophageal mucosal ulceration via regulation of reactive oxygen species-dependent apoptosis.",
+      "authors": [
+        {
+          "name": "Mi-Rae Shin",
+          "ids": [
+            "33264028"
+          ]
+        },
+        {
+          "name": "Hyo-Jin An",
+          "ids": [
+            "38811433"
+          ]
+        },
+        {
+          "name": "Bu-Il Seo",
+          "ids": [
+            "3656479"
+          ]
+        },
+        {
+          "name": "Seong-Soo Roh",
+          "ids": [
+            "3324116"
+          ]
+        }
+      ],
+      "year": 2017,
+      "venue": "World journal of gastroenterology",
+      "journalName": "",
+      "outCitations": [
+        "cd2d76711582a9f170a41cdb728f3bb636e4bdd5",
+        "decaec8b0082f3f2d9b7410f78bd36286a994c25",
+        "beecfc72f52b7f2751435824909ad384d07df68a",
+        "6311ae03dac5adc8dffab8293762544a5e2f480d",
+        "cd3a5d70e7ac486837b6f6a69ed3b6f0e7dba656",
+        "da3b6a47c6aaaa76c0961038dc6ee3ecc90fe206",
+        "2a912294f57f7d5073a27ec3c11f37e74cbcf29b",
+        "18000a485a8b823ec1b8f492308416eff4a0e51d",
+        "3cefdfa842e92eadc9b5b9763d945b032e10cfeb",
+        "de73b73327fcd7414234f2b7f6c5266acccccf61",
+        "75b2f83e612538c382ced8148d537adc0b643cbd",
+        "42951e82746314c6baa8f9e7aa48040773e190ae",
+        "791f0fb5e2b5620cb13d06ed8b39dbeb6267fc45",
+        "5a1d7eff49068a66bf5c86ad18c2f1ac56a2cc07",
+        "403a6c66b939107bbd6ca1f66d197f9bdc890325"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "095fce8923417c6b753d46414eef325d2431830a",
+      "title": "The neurovascular protection afforded by delayed local hypothermia after transient middle cerebral artery occlusion.",
+      "paperAbstract": "Therapeutic hypothermia is a robust therapeutic tool in experimental stroke models but its clinical applications are limited. Furthermore, optimal conditions for therapeutic hypothermia, such as, temperature and the initiation and duration of cooling must be individualized. Here, we evaluated the therapeutic effects of delayed local hypothermia, administered for 44 hr after 4 hr of reperfusion in a rat model of transient middle cerebral artery occlusion (tMCAo), using a cooling device that allowed controlled local hypothermia (31 °C) in brain. Histological data revealed that local hypothermia significantly reduced infarct volumes and glial hypertrophic activation. Brain water contents, IgG leakage, and Evans Blue extravasation were notably reduced by local hypothermia. Furthermore, local hypothermia had strong vasculoprotective effects, as determined by immunohistochemistry and Western blot analyses for endothelial barrier antigen (EBA), laminin, aquaporin-4, and tight junction proteins in brain. Our data indicate that delayed/prolonged local hypothermia confers neurovascular protection, reduces brain edema, and inhibits inflammatory glial activation, and suggest that hypothermic conservation of vascular structures and functions account for the therapeutic effects of local hypothermia observed in this model of experimental stroke.",
+      "authors": [
+        {
+          "name": "Jong-Heon Kim",
+          "ids": [
+            "1986467"
+          ]
+        },
+        {
+          "name": "Minchul Seo",
+          "ids": [
+            "33912712"
+          ]
+        },
+        {
+          "name": "Hyung Soo Han",
+          "ids": [
+            "4420832"
+          ]
+        },
+        {
+          "name": "Jaechan Park",
+          "ids": [
+            "6909574"
+          ]
+        },
+        {
+          "name": "Kyoungho Suk",
+          "ids": [
+            "4697538"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "Current neurovascular research",
+      "journalName": "Current neurovascular research",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "a689039f9d63d8f42f8ac371e8556139f5147a7b",
+      "title": "Stirling distributions and Stirling numbers of the second kind. Computational problems in statistics",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "François Hennecart",
+          "ids": [
+            "1974103"
+          ]
+        }
+      ],
+      "year": 1994,
+      "venue": "Kybernetika",
+      "journalName": "Kybernetika",
+      "outCitations": [],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "187a74a145a3eefe20626fda3d804048b8456e70",
+      "title": "What determines the self-rated health of older individuals with stroke compared to other older individuals? A cross-sectional analysis of the Medical Research Council Cognitive Function and Aging Study",
+      "paperAbstract": "BACKGROUND\nPoor self-rated health has been associated with poorer objective health outcomes across a range of conditions including stroke. Identification of factors associated with poor self-rated health in stroke survivors has received little attention compared to that in other older individuals. This study identifies determinants of self-rated health in older individuals with or without a history of stroke participating in the population-representative MRC Cognitive Function and Aging Study (MRC CFAS).\n\n\nMETHODS\nThe MRC CFAS is a multicentred longitudinal survey of a population representative sample of people in their 65th year and older at baseline. Baseline interview included questions about functional disability, psychiatric history, independent living status, social interactions, and cognitive function. Multiple logistic regression was used to determine associations between demographic, physical, cognitive, psychological and social factors with poor self-rated health among those with and without stroke.\n\n\nRESULTS\nAfter excluding those with impaired cognitive function, 776 individuals out of 11,957 reported a stroke. Factors associated with self-rated health were similar between those with or without a stroke in older individuals. Poorer self-rated health in those who had suffered a stroke was associated predominantly with the presence of comorbidity with diabetes (OR 3.5; 95% CI 1.5-8.1) and not \"getting out and about\" (OR 2.6; 95% CI 1.7-4.1) even after adjustment for disability levels and for depression. In those without a stroke the most important determinants were disability (OR 3.9; 95% CI 3.2-4.8) and not \"getting out and about\" (OR 2.9; 95% CI 2.5-3.3). The presence of disability was less strongly associated with poor self-rated health in those with a history of stroke than those without due to a substantially higher reporting of poor self-rated health in the non-disabled stroke group than the non-disabled stroke-free group, while those with disabilities reported poor self-rated health irrespective of stroke status.\n\n\nCONCLUSIONS\nSelf-rated health is determined by a range of psychological and social factors in addition to disability in older patients with stroke. Addressing social integration and mobility out of the home is an important element of rehabilitation for older people with stroke as well as those without.",
+      "authors": [
+        {
+          "name": "Nahal Mavaddat",
+          "ids": [
+            "8355619"
+          ]
+        },
+        {
+          "name": "Rianne Van der Linde",
+          "ids": [
+            "36207514"
+          ]
+        },
+        {
+          "name": "George M Savva",
+          "ids": [
+            "2342454"
+          ]
+        },
+        {
+          "name": "Carol Brayne",
+          "ids": [
+            "1962822"
+          ]
+        },
+        {
+          "name": "Jonathan Mant",
+          "ids": [
+            "3441584"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "BMC geriatrics",
+      "journalName": "",
+      "outCitations": [
+        "a79c3e08bc5a5b836eafff26887b8e86035d8596",
+        "e492970346990976fc73578d9bbb9f96bee01727",
+        "921982a974ad0546d5246ffabf40d3619b7231b1",
+        "2d6350966c2ed751d51813003f28dbf31c0a0ae4",
+        "159c1ee913556948d2d436ee606576e27bc32ab7",
+        "c7bf91a0a74dc8e9f9a2f76cf7534752741b7b0e",
+        "f18df552c641448b7d5f25fec5a340ed3067ed4d",
+        "010a2ca8c24f2dcb3901c824c751e73014eb652d",
+        "36881ffbca39eb6afebfc8cb62339ca20a9d8709",
+        "6033964d7d1ff0299be11575a867b1f36a5e0895",
+        "43dac0382625871806a430999431b3a091cd6497",
+        "fa7ea67ee281fe4d04265d3278523167797ae3f3",
+        "fbf07567df1f609b89a4ebf9c5b98d9424001130",
+        "3d746fab37a1b8834adbba53fa993ea72b8f2694",
+        "2ccf1d98d22fff9a38fde40b2fb3bb563bc2cc32",
+        "e86dff9d3f5f17ec266988f023664a1c3506d964",
+        "19633e75961fb93e6601c25c44c189f7e5ca2524",
+        "0b88c2ca56d26b4143fb4d1204c33a0ada18e27b",
+        "593789ab7f3f1f4e9907edb878e6d657aacbf938",
+        "49abf82bd7da4569cf5e369468d7612ec10a2fc3",
+        "9a4669eff297902c21aff137da801dfc9340e615",
+        "a8d7c9fc804bfa941854ad8fc91d2966e8419d6f",
+        "748bd3612c00e1f5287151067161fcb1311ab099",
+        "0eddb71da374f9e5c87cb761635a6a1060a4fd6b",
+        "e562433e1893c08ece800fa35224c5d6ab98eff0",
+        "21eac5cd9e13fb1c830c5d373d223ee3df60bd2e",
+        "a4c9b91d4bd6b4ed5405ae07f124b471b70c4884",
+        "13982e4afbdcfd8fd1fd392a5389600fedd07404",
+        "6630811e30de0b5552b2c3fb005c75e0d06f68cc",
+        "2fda47088e97168a7dcc777544e1db8638ab07e6",
+        "0edcd60609d9d864f313039c9a6d2f35aa1e0890",
+        "34c5fec9d6896fb684a35f18941b500985f1b5df",
+        "1299a8bd44df66eab48fc0ae28a1b2b2fcc37e49",
+        "0e88fceb0acd4de47331d8978feffe0c95b53265",
+        "50c30c312e758a1edad2e985b923e6a929d6a510",
+        "f0d182ffd6cc1fa7471d92efabf25832817fd7ef",
+        "2ab5a4dcb124934ec2800881cf808b285e2f5429",
+        "e6e8c7807ac1c0ed6a57e7c5b9aa45a0ac932d58",
+        "01ec640a3f1ff719cc054be04928c76e8a4128a6",
+        "779c943877d4c490b88abb366c5539e096b58ecf"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "1419e64aef5a40e63593c85c0f9973c9aefbbef3",
+      "title": "[Genetic indices in Burnett's syndrome].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "S V Uktveris",
+          "ids": [
+            "11916640"
+          ]
+        },
+        {
+          "name": "N R Shiakshtelene",
+          "ids": [
+            "14176185"
+          ]
+        },
+        {
+          "name": "V P Aleksandrov",
+          "ids": [
+            "2774826"
+          ]
+        },
+        {
+          "name": "V I Lapshite",
+          "ids": [
+            "15173167"
+          ]
+        }
+      ],
+      "year": 1987,
+      "venue": "Vrachebnoe delo",
+      "journalName": "Vrachebnoe delo",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "c1bc5cb47276bd36293a912e92e858719e31c9ef",
+      "title": "Research on technology of microwave-photonic-based multifunctional radar",
+      "paperAbstract": "Prospective characteristics of the next generation of radar is investigated in this paper, combined with future requirement. The demands of the next generation radar for the wide band, high speed, parallelism and high integration are precisely the four prominent respects of photonics. The technological path of future radar could hopefully be interdisciplinary fusion to solve bottleneck problems in the microwave field by means of optical methods, ideas and technical features, namely constructing microwave photonics technology based radar system. One system architecture of multifunctional radar based on the technology of microwave photonics is proposed. Meanwhile, representative techniques such as photonic frequency conversion and photonic beamforming are presented. Some stages of experiment and test results are reported.",
+      "authors": [
+        {
+          "name": "Jianqi Wu",
+          "ids": [
+            "9095988"
+          ]
+        },
+        {
+          "name": "Kai Wang",
+          "ids": [
+            "1728316"
+          ]
+        },
+        {
+          "name": "Yiying Gu",
+          "ids": [
+            "2781528"
+          ]
+        }
+      ],
+      "year": 2016,
+      "venue": "2016 CIE International Conference on Radar (RADAR)",
+      "journalName": "2016 CIE International Conference on Radar (RADAR)",
+      "outCitations": [
+        "c4292b5d593d819468a9463f7df4ed6ede3f7a00",
+        "431dc29f640e973bbc7fb8bc30cb0e078af042f7",
+        "a402150ac9aa41e0f5db17ba90df2657aecc1695",
+        "5cb4a3185b302e0d51b0ac19840d4c50d2cda8cd",
+        "4201ad48c51c91e56233b1da538c3d298c47d24d"
+      ],
+      "sources": []
+    },
+    {
+      "id": "46bba479f749c424ef0d4bcead18c3bd8d31e695",
+      "title": "Surgical applications of gamma-detecting probes.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "W E Burak",
+          "ids": [
+            "4804283"
+          ]
+        },
+        {
+          "name": "M Boso",
+          "ids": [
+            "6653812"
+          ]
+        },
+        {
+          "name": "M O Thurston",
+          "ids": [
+            "26100486"
+          ]
+        },
+        {
+          "name": "E W Martin",
+          "ids": [
+            "2131756"
+          ]
+        }
+      ],
+      "year": 1996,
+      "venue": "Surgical technology international",
+      "journalName": "Surgical technology international",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "56c1ccdbb2d3544b0e74e5bcd9497567fb8b82f9",
+      "title": "Discussion on the Ætiology and Treatment of Iritis.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "J G Turner",
+          "ids": [
+            "4142270"
+          ]
+        }
+      ],
+      "year": null,
+      "venue": "Proceedings of the Royal Society of Medicine",
+      "journalName": "Proceedings of the Royal Society of Medicine",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "a5d2adf24ea7b72eea56eecdbbd90287c9383d80",
+      "title": "Transformation of speciosine into colchamine",
+      "paperAbstract": "A minor alkaloid of Colchicum spec iosum Stev. (showy autumn crocus) speciogine [1] is N-o -hyd roxy benzylco lchamine [2]. Continuing a study of the p r o p e r t i e s of specios ine , we turned our at tention to the fact that i ts m a s s spec t rum (MKh-1303 ins t rument , t e m p e r a t u r e 200°C and ionizing vol tage 35 V) in the region of high m a s s number s p rac t i ca l ly coincides with the s p e c t r u m of colchamine (methyldeacetylcolchicine) [3]. In addition to this, the absence under the conditions given of the peak of a mo lecu la r ion with m / e 477 co r responding to spec ios ine apparent ly showed the decomposi t ion of this alkaloid under the conditions of m a s s s p e c t r o m e t r y and its convers ion into colchamine. F u r t h e r m o r e , in ag reemen t with the r e su l t s of o ther authors [2], in the m a s s s p e c t r u m t h e r e is a t r ip le t of ions with m / e 106-108 showing the appea rance of the o-hydroxybenzyl r e s idue of the spec ios ine molecule .",
+      "authors": [
+        {
+          "name": "V. V. Kiselev",
+          "ids": [
+            "17087794"
+          ]
+        },
+        {
+          "name": "Ya. V. Rashkes",
+          "ids": [
+            "20982511"
+          ]
+        },
+        {
+          "name": "S. Yu. Yunusov",
+          "ids": [
+            "2610886"
+          ]
+        }
+      ],
+      "year": 2004,
+      "venue": "Chemistry of Natural Compounds",
+      "journalName": "Chemistry of Natural Compounds",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "5f729a273e2cbceabc2ccf074b7f5fbb5fdb5381",
+      "title": "Zeus ∗",
+      "paperAbstract": "The strong coupling constant, αs, is one of the fundamental parameters of QCD. However, its value is not predicted by the theory and has to be determined experimentally. The success of perturbative QCD (pQCD) lies on precise and consistent determinations of the coupling from many diverse phenomena such as τ decays, event shapes, Z decays, etc. At ZEUS, many precise determinations of αs have been performed from a variety of measurements based on jet observables and on structure functions. The procedure to determine αs from jet observables used by ZEUS is based on the αs dependence of the pQCD calculations and takes into account the correlation with the proton parton distribution functions (PDFs). The method consists of performing next-to-leadingorder (NLO) calculations using sets of PDFs for which different values of αs(MZ) were assumed in the fits. A parameterisation of the αs(MZ) dependence of the theory for the given observable is obtained. Finally, a value for αs(MZ) is extracted from the measured cross section using such parameterisation. This procedure handles correctly the complete αsdependence of the NLO calculations (the explicit dependence in the partonic cross section and the implicit dependence from the PDFs) in the fit, while preserving the correlation between αs and the PDFs.",
+      "authors": [
+        {
+          "name": "Claudia Glasman",
+          "ids": []
+        }
+      ],
+      "year": 2008,
+      "venue": "",
+      "journalName": "",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "88de429a85e56c9fb9662579555e59a4c1a41ef4",
+      "title": "Probabilistic load flow calculation considering wind power uncertainty",
+      "paperAbstract": "This paper mainly focuses on the horizontal comparisons pertinent to the impacts on power flow when three different types of wind power generators, Squirrel Cage Induction Generator (SCIG), Doubly Fed Induction Generator (DFIG) and Permanent Magnet Synchronous Generator (PMSG), are integrated into the existing power grid respectively. In order to discuss the influence, the probabilistic load flow (PLF) considering wind power uncertainty is analyzed in this paper. Whilst to solve the PLF problem with higher precision and less computing time, the traditional Monte Carlo method is improved by using the quasi random sequence instead of simple samples, which is called Quasi Monte Carlo method. The simulations are based on IEEE 14-bus test system and some interesting and useful information can be obtained.",
+      "authors": [
+        {
+          "name": "Wei-De Gu",
+          "ids": [
+            "30976640"
+          ]
+        },
+        {
+          "name": "Li-Bao Shi",
+          "ids": [
+            "30596444"
+          ]
+        },
+        {
+          "name": "Liang-Zhong Yao",
+          "ids": [
+            "35054093"
+          ]
+        },
+        {
+          "name": "Yi-Xin Ni",
+          "ids": [
+            "30965531"
+          ]
+        },
+        {
+          "name": "Shi-Yao Qin",
+          "ids": [
+            "30926980"
+          ]
+        },
+        {
+          "name": "Rui-Ming Wang",
+          "ids": [
+            "29841087"
+          ]
+        },
+        {
+          "name": "Jin-Ping Zhang",
+          "ids": [
+            "3556369"
+          ]
+        }
+      ],
+      "year": 2014,
+      "venue": "2014 International Conference on Power System Technology",
+      "journalName": "2014 International Conference on Power System Technology",
+      "outCitations": [
+        "556885d6fa36681289be9b5d523b6dffb12996b7",
+        "cefd369465849a03cbfc696a6105e7bb9a982be4"
+      ],
+      "sources": []
+    },
+    {
+      "id": "c89e343fa61ee5a48b2f0ede30351c68f927f97d",
+      "title": "[A new stage in the development of occupational health care in the German Democratic Republic].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "H Tschersich",
+          "ids": [
+            "12250069"
+          ]
+        }
+      ],
+      "year": 1979,
+      "venue": "Zeitschrift fur die gesamte Hygiene und ihre Grenzgebiete",
+      "journalName": "Zeitschrift fur die gesamte Hygiene und ihre Grenzgebiete",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "de788336c983ff2e339cbb97350b9c345842d7a7",
+      "title": "Respinomycins A1, A2, B, C and D, a novel group of anthracycline antibiotics. II. Physico-chemical properties and structure elucidation.",
+      "paperAbstract": "Respinomycins A1, A2, B, C and D were revealed to be novel anthracycline antibiotics with molecular formulae of C51H72N2O20, C43H58N2O15, C35H43NO14, C36H45NO14 and C51H70N2O22, respectively. Their structures were determined by means of 1H-1H COSY, 13C-1H COSY and HMBC spectra. The structure of the aglycone of respinomycins was unambiguously determined by LSPD experiments and NOESY. The common skeleton of respinomycins is a new type and is distinguished from that of the nogalamycin group.",
+      "authors": [
+        {
+          "name": "M Ubukata",
+          "ids": [
+            "2887662"
+          ]
+        },
+        {
+          "name": "J Uzawa",
+          "ids": [
+            "14039946"
+          ]
+        },
+        {
+          "name": "H Osada",
+          "ids": [
+            "2651352"
+          ]
+        },
+        {
+          "name": "K Isono",
+          "ids": [
+            "2264013"
+          ]
+        }
+      ],
+      "year": 1993,
+      "venue": "The Journal of antibiotics",
+      "journalName": "The Journal of antibiotics",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "8e03f76f368d9f432c25a85da04940fb920418c4",
+      "title": "Reverse procurement and auctions for consumers",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Michael Klafft",
+          "ids": [
+            "3199001"
+          ]
+        },
+        {
+          "name": "Sarah Spiekermann",
+          "ids": [
+            "1681853"
+          ]
+        }
+      ],
+      "year": 2006,
+      "venue": "Wirtschaftsinformatik",
+      "journalName": "Wirtschaftsinformatik",
+      "outCitations": [],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "4b6c1729f665342940add3118bbe648400a3c203",
+      "title": "Accumulation of Mg to Diffusive Gradients in Thin Films (DGT) Devices: Kinetic and Thermodynamic Effects of the Ionic Strength.",
+      "paperAbstract": "Availability of magnesium is a matter of concern due to its role in many environmental and biological processes. Diffusive Gradients in Thin Films (DGT) devices can measure Mg availability in situ. This work shows that Mg accumulation in water largely increases when ionic strength (I) decreases. This phenomenon can be explained from (i) the increase of both the association equilibrium (K) and rate (ka,R) constants for the reaction between Mg cations and resin sites, and (ii) the growing contribution of the partitioning of Mg cations at the resin-gel interface, as I decreases. Two theoretical models that take into account electrical interactions among Mg cations, background electrolyte, and resin sites can successfully be used to determine ka,R and K at each I. Both models yield similar ka,R values, which fulfill an expression for the kinetic salt effect. For freshwater (with a typical salinity of 10 mM and circumneutral pH), the binding of Mg is so fast and strong that the simplest perfect-sink DGT expression can be helpful to predict (overestimation lower than 5%) the accumulation in solutions with Mg concentrations up to 1 mM whenever the deployment time is below 9 h. Perfect sink conditions can still be applied for longer times, in systems with either a lower I or a lower Mg concentration.",
+      "authors": [
+        {
+          "name": "Alexandra Altier",
+          "ids": [
+            "11038732"
+          ]
+        },
+        {
+          "name": "Martín Jiménez-Piedrahita",
+          "ids": [
+            "11036546"
+          ]
+        },
+        {
+          "name": "Carlos Rey-Castro",
+          "ids": [
+            "7908013"
+          ]
+        },
+        {
+          "name": "Joan Cecilia",
+          "ids": [
+            "19689475"
+          ]
+        },
+        {
+          "name": "Josep Galceran",
+          "ids": [
+            "1846644"
+          ]
+        },
+        {
+          "name": "Jaume Puy",
+          "ids": [
+            "4067750"
+          ]
+        }
+      ],
+      "year": 2016,
+      "venue": "Analytical chemistry",
+      "journalName": "Analytical chemistry",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "7f01ea19b5258937b9b0ed3e58a601fce1e72b2d",
+      "title": "On Morphycally Generated Formal Power Series",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "Juha Honkala",
+          "ids": [
+            "1716992"
+          ]
+        }
+      ],
+      "year": 1995,
+      "venue": "ITA",
+      "journalName": "ITA",
+      "outCitations": [],
+      "sources": [
+        "DBLP"
+      ]
+    },
+    {
+      "id": "6adccaf01b75cf1462bc10d7dde0d8936ea5f5c1",
+      "title": "Wither, whether and whither pharmacology.",
+      "paperAbstract": "There has been considerable discussion over the last couple of years about the nature of pharmacology as a discipline and the training programmes for pharmacologists. Recently the British Pharmacological Society devoted a whole symposium to this important issue. In the UK in particular, pressure from government has nearly doubled the number of undergraduate students entering the university sector over the last five years, which has put considerable pressure on the teaching of essential practical courses for this experimental discipline. Similar pressures face the teaching of pharmacology in other countries and the situation, discussed here by Clive Page, Morley Sutter and Michael Walker, clearly has implications for academic pharmacology and the pharmaceutical industry. It is intended that the following article will stimulate both dialogue and positive action towards redressing this important problem.",
+      "authors": [
+        {
+          "name": "C P Page",
+          "ids": [
+            "1859218"
+          ]
+        },
+        {
+          "name": "M C Sutter",
+          "ids": [
+            "2323041"
+          ]
+        },
+        {
+          "name": "M J Walker",
+          "ids": [
+            "1850126"
+          ]
+        }
+      ],
+      "year": 1994,
+      "venue": "Trends in pharmacological sciences",
+      "journalName": "Trends in pharmacological sciences",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "e7b0ba67cbf081e7e6058660591b10c467fae208",
+      "title": "Auranofin radiosensitizes tumor cells through targeting thioredoxin reductase and resulting overproduction of reactive oxygen species",
+      "paperAbstract": "Auranofin (AF) is an anti-arthritic drug considered for combined chemotherapy due to its ability to impair the redox homeostasis in tumor cells. In this study, we asked whether AF may in addition radiosensitize tumor cells by targeting thioredoxin reductase (TrxR), a critical enzyme in the antioxidant defense system operating through the reductive protein thioredoxin. Our principal findings in murine 4T1 and EMT6 tumor cells are that AF at 3-10 μM is a potent radiosensitizer in vitro, and that at least two mechanisms are involved in TrxR-mediated radiosensitization. The first one is linked to an oxidative stress, as scavenging of reactive oxygen species (ROS) by N-acetyl cysteine counteracted radiosensitization. We also observed a decrease in mitochondrial oxygen consumption with spared oxygen acting as a radiosensitizer under hypoxic conditions. Overall, radiosensitization was accompanied by ROS overproduction, mitochondrial dysfunction, DNA damage and apoptosis, a common mechanism underlying both cytotoxic and antitumor effects of AF. In tumor-bearing mice, a simultaneous disruption of the thioredoxin and glutathione systems by the combination of AF and buthionine sulfoximine was shown to significantly improve tumor radioresponse. In conclusion, our findings illuminate TrxR in cancer cells as an exploitable radiobiological target and warrant further validation of AF in combination with radiotherapy.",
+      "authors": [
+        {
+          "name": "Hui Wang",
+          "ids": [
+            "1685600"
+          ]
+        },
+        {
+          "name": "Soumaya Bouzakoura",
+          "ids": [
+            "15859988"
+          ]
+        },
+        {
+          "name": "Sven de Mey",
+          "ids": [
+            "5589392"
+          ]
+        },
+        {
+          "name": "Heng Jiang",
+          "ids": [
+            "3206262"
+          ]
+        },
+        {
+          "name": "Kalun Law",
+          "ids": [
+            "37414756"
+          ]
+        },
+        {
+          "name": "Inès Dufait",
+          "ids": [
+            "4601762"
+          ]
+        },
+        {
+          "name": "Cyril Corbet",
+          "ids": [
+            "5469111"
+          ]
+        },
+        {
+          "name": "Valeri Verovski",
+          "ids": [
+            "6248894"
+          ]
+        },
+        {
+          "name": "Thierry Gevaert",
+          "ids": [
+            "3620841"
+          ]
+        },
+        {
+          "name": "Olivier Feron",
+          "ids": [
+            "2110687"
+          ]
+        },
+        {
+          "name": "Dirk Van den Berge",
+          "ids": [
+            "34581431"
+          ]
+        },
+        {
+          "name": "Guy Storme",
+          "ids": [
+            "4952625"
+          ]
+        },
+        {
+          "name": "Mark De Ridder",
+          "ids": [
+            "4696284"
+          ]
+        }
+      ],
+      "year": 2017,
+      "venue": "Oncotarget",
+      "journalName": "",
+      "outCitations": [
+        "434496c4372af83e1ff0427371bf095ff41beacb",
+        "2dc4403b5465e0743e7c63131661761cd07b9d1f",
+        "2141fcfe719cd89baf34f8881fa06656db8dfa0e",
+        "861101335892820389218ff9ae80a8974f37003e",
+        "2bba23c83edb8c86b8cb82e719742e25154a7add",
+        "191714ad558b7ae5c6114d7490e297a62d9bc540",
+        "123b9014068ccf29b58a4fa99b5ee2e8700b3230",
+        "d25fcef5cea34d75a6f41d3737c60fc0bb723ca4",
+        "9e2a5f3aac5adbca8520c3742dc14d21979e9a95",
+        "750b593cd395d7b8449712cb3654694a76ba8fab",
+        "2a414d59538526dfacab9cc2dbeb5460647d188c",
+        "d6aa6c68a8e88bd697f28a85ad01e7219a599833",
+        "d5151cba79cbfb4d174917318660cfbae3130256",
+        "22d8727af93f90c7512e6939a12fe0ea18a0127a",
+        "902b762c1c85ed704b2056f6111cb1a6315318ed",
+        "227aff7dbb9d7c96732f8f6939a00b0bc697de14",
+        "73ad8e0f02bed88f91cbbc447187570aeefdcb72",
+        "0fecf5ad80d79cec71ff8d5b75b702162c398490",
+        "958fea592928d3cce74fc37fb1ec1615e6117090",
+        "7d18cb1e5cdfb908f0475ee208c9c56e54efb74b",
+        "797cbd85b7118c0208e10fa9bdc456ca972a84c2",
+        "a3fe39848c12940c20cb88951c46c37a3ca3d14f",
+        "372dc32716fb68895f976e4f9ec15724863ffdae",
+        "ce1eecaf201a5ccaea86984a9a3fa9df2385dbd0",
+        "fc70bcd881b87d7cb077423899bdb2ca2718b635",
+        "c85a78d91af2f92c9b9e1751681d5dccea096f92",
+        "dd943b6d52f4da45b0c86d3cf1dc01b9acaa2687",
+        "c7677bcf6daaa0d3eeb2df66aa69373b8ec717f3",
+        "e4b6809518668a761168cc1ebc4c3a73716147e7",
+        "86ecb4b68f484302655e499ac916b2ba42686980",
+        "f39d6e069677deb47d9242b230f44af8e3511ae4",
+        "76c8340a298bc7e91c09ef252d13f3e6fa341676",
+        "49cc707b437a148209bdc4be0cbe1ab12c0ff238",
+        "9756869c525375b1ad92a0fee7753a0b7c08e5f7",
+        "2e2c9fb832accd928f8620b127b584298ecbabdc",
+        "02f71c2a439f3ee283acf3bbfe661012a67b38ff",
+        "2a3b96d7d198ef9100e2f5ea6aeaa185e061a939",
+        "6b485949a334dbe16534452d3693f9b5a2a40fdf",
+        "14961f9e4447f4b41265dc5f4fe138a08ca9de98",
+        "227c5b5f665df392623873f5bf9abcc5355f6cd0",
+        "0ed19d5487a60b291ff1941aa73e1c66ca8281c8",
+        "28f9fa9b9909f400bb308bde826fae90fa698776",
+        "14a9412701f3397cfb0a523caebfca7813c59ef7",
+        "f245f1ef4065a5045a91370de62f1f4892ea2db7",
+        "839b3c4a38cfd058747cd1c335b2e0d1b2799d2b",
+        "09f169c0ac46feb210a795363ecac8f27dd52e1e",
+        "5796ead15a081f1226f1f4333fc39e307ffd2c9c",
+        "5a8f60d537d9559473b99efcdec4ea85f8e3de9d",
+        "d86e1d0de6e8f41e3b526dbfe56d22233e1df47d",
+        "048ccf68f7187552296b6138d626e92d91a95900"
+      ],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "ee4c1fdb72a00ee4bf1f0fadf34e2eec8b701198",
+      "title": "Polymorphism for Y-linked suppressors of sex-ratio in two natural populations of Drosophila mediopunctata.",
+      "paperAbstract": "In several Drosophila species there is a trait known as \"sex-ratio\": males carrying certain X chromosomes (called \"SR\") produce female biased progenies due to X-Y meiotic drive. In Drosophila mediopunctata this trait has a variable expression due to Y-linked suppressors of sex-ratio expression, among other factors. There are tow types of Y chromosomes (suppressor and nonsuppressor) and two types of SR chromosomes (suppressible and unsuppressible). Sex-ratio expression is suppressed in males with the SRsuppressible/Ysuppressor genotype, whereas the remaining three genotypes produce female biased progenies. Now we have found that approximately 10-20% of the Y chromosomes from two natural populations 1500 km apart are suppressors of sex-ratio expression. Preliminary estimates indicate that Ysuppressor has a meiotic drive advantage of 6% over Ynonsuppressor. This Y polymorphism for a nonneutral trait is unexpected under current population genetics theory. We propose that this polymorphism is stabilized by an equilibrium between meiotic drive and natural selection, resulting from interactions in the population dynamics of X and Y alleles. Numerical simulations showed that this mechanism may stabilize nonneutral Y polymorphisms such as we have found in D. mediopunctata.",
+      "authors": [
+        {
+          "name": "A B Carvalho",
+          "ids": [
+            "31888061"
+          ]
+        },
+        {
+          "name": "S C Vaz",
+          "ids": [
+            "14842140"
+          ]
+        },
+        {
+          "name": "L B Klaczko",
+          "ids": [
+            "4721795"
+          ]
+        }
+      ],
+      "year": 1997,
+      "venue": "Genetics",
+      "journalName": "Genetics",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "9f8c9eea8fee239175e1bc5f7f295128c8a12c22",
+      "title": "An Efficient Algorithmic Approach for Multicast Scheduling Using Ant Colony Optimization",
+      "paperAbstract": "Multicasting is one of the prominent that is used in the networks for the transmission of data packets. In this scheduling technique, the packets are transferred erratically across the distributed network. The convey of packets randomly across network cases the anonymous users to access the packets. The data packets should be transferred in authorized path to multiple recipients. The main objective of this research work is to transfer packets to the destination through optimized path. It can be achieved using the assorted metaheuristic techniques including genetic algorithm, simulated annealing, honey bee algorithm and many others. We have used Ant Colony Optimization for solving the optimization problem. An authorized and novel technique is proposed to overcome these problems. In the classical or traditional system, they are mainly concentrated on transferring packets between the source and destination and also they are concentrated when the source and destination are under movement, nowadays the mobile devices plays major role in network topology. Multicasting was clearly proved in the classical system by transferring packets from one source to many destinations on a single time. The proposed system is designed to overcome various problems, arises during the multicast packet transfer to the mobile nodes. The proposed system provides an optimized route to the various destinations using the ant algorithm as we discussed above, with the help of this path the packets are transferred to the various destinations. In this multicast scheduling technique, various problems arising during the routing has been overcome by using Ant algorithm whereby the proposed novel technique provides solution for routing for nodes which are static and nodes under movement. Keywords— Multicasting,ACO",
+      "authors": [
+        {
+          "name": "NEHA YADAV",
+          "ids": [
+            "2124950"
+          ]
+        },
+        {
+          "name": "Er. MOHIT",
+          "ids": [
+            "34949181"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "",
+      "journalName": "",
+      "outCitations": [
+        "4fa32546b77b483cecc365a1740aa5dfdc711543",
+        "b740ea29c870173183ffb5fd57cc709a6b50a313",
+        "9d61b5d40f561a08657e75350c58a0e842be00c7",
+        "2501f5450fad57b155b4955d91ce3184a3a9a724",
+        "961039dc5410ca6ca6487f09c26e9294c63d7e79",
+        "30dd2516a900a15d95c94be6064130642b3f8447",
+        "2248b684c6aad69bc0b42051596fadde16bfa808",
+        "78c1f6a0c20e3611824c4b6040474a598bdd5241"
+      ],
+      "sources": []
+    },
+    {
+      "id": "e4ec478385180322be28ab43f0298139dcda1c2c",
+      "title": "The mathematical model of the magnetron type amplifiers analysis taking into account reflected waves and side vibration modes",
+      "paperAbstract": "The multiwave numerical model of magnetron type amplifiers (amplitrons, stabilitrons, forward-wave and backward-wave amplifiers with drift space) is described. This model allows describing the process of &#x201C;working&#x201D; signal amplification and excitation of oscillations side types caused by multiple input and output reflections of high-frequency waves. It is shown that the registration of possible self-excitation of a device allows determining adequately the limits of a region of amplification according to anode current and voltage.",
+      "authors": [
+        {
+          "name": "V. B. Baiburin",
+          "ids": [
+            "30695259"
+          ]
+        },
+        {
+          "name": "A. A. Terentyev",
+          "ids": [
+            "10373669"
+          ]
+        },
+        {
+          "name": "A. S. Ershov",
+          "ids": [
+            "32350034"
+          ]
+        }
+      ],
+      "year": 2013,
+      "venue": "2013 23rd International Crimean Conference \"Microwave & Telecommunication Technology\"",
+      "journalName": "2013 23rd International Crimean Conference \"Microwave & Telecommunication Technology\"",
+      "outCitations": [],
+      "sources": []
+    },
+    {
+      "id": "d2a3e1f6b70aec558fe02df1bbf3e50bbcb4382b",
+      "title": "CJD: how to process instruments.",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "M Reichert",
+          "ids": [
+            "3776783"
+          ]
+        },
+        {
+          "name": "J K Schultz",
+          "ids": [
+            "34882463"
+          ]
+        }
+      ],
+      "year": 2001,
+      "venue": "OR manager",
+      "journalName": "OR manager",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    },
+    {
+      "id": "dd44838b9a8623a655969e9fd5a87fa3ba6a3276",
+      "title": "[A case of spinal tumor by malignant thymoma].",
+      "paperAbstract": "",
+      "authors": [
+        {
+          "name": "K Tsuchiya",
+          "ids": [
+            "1678337"
+          ]
+        },
+        {
+          "name": "M Ikeda",
+          "ids": [
+            "2122025"
+          ]
+        },
+        {
+          "name": "M Arai",
+          "ids": [
+            "1873158"
+          ]
+        },
+        {
+          "name": "E Hiyamuta",
+          "ids": [
+            "6473743"
+          ]
+        },
+        {
+          "name": "H Kamitani",
+          "ids": [
+            "9911292"
+          ]
+        }
+      ],
+      "year": 1987,
+      "venue": "Rinsho shinkeigaku = Clinical neurology",
+      "journalName": "Rinsho shinkeigaku = Clinical neurology",
+      "outCitations": [],
+      "sources": [
+        "Medline"
+      ]
+    }
+  ]
+}
