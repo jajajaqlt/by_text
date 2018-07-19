@@ -1,25 +1,47 @@
-import json
 import re
 import sys
-import pdb
+import json
+
+'''
+0. title string
+1. paperAbstract
+2. authors list
+3. outCitations list # the papers this paper cites
+4. year int
+5. venue string
+6. journalName # venue preferred
+7. sources: list (DBLP or Medline or empty)
+8. id
+9. - inCitations # the papers citing this paper
+'''
 
 input_file = sys.argv[1]
-output_file = sys.argv[2]
+# each line: s2_id title title_percent
+titles_file = sys.argv[2]
+# each line: author id1 id2
+authors_file = sys.argv[3]
+# each line: venue (skip if empty)
+venues_file = sys.argv[4]
+titles_list = []
+authors_list = []
+venues_list = []
+
 with open(input_file) as f:
-    papers = json.load(f)['articles']
+    lines = f.readlines()
 
-# title_letters_thres = 0.9
-# abstract_letters_thres = 0.9
+features = ['id', 'title', 'paperAbstract', 'authors', 'year', 'venue', 'outCitations', 'sources']
+papers = []
 
-titles_out = 0
-abstracts_out = 0
-empty_abstracts_out = 0
+def format_author_entry(author):
+    entry = author['name']
+    for id in author['ids']:
+        entry += ' ' + id
+    return entry
 
-index = -1
-out_indices = []
-for paper in papers:
-    index += 1
-    out_flag = False
+for line in lines:
+    paper = json.load(line)
+    paper = {feature: paper[feature] for feature in features}
+
     title = paper['title'].strip()
     abstract = paper['paperAbstract'].strip()
 
@@ -71,10 +93,7 @@ for paper in papers:
             title_specials += 1
             title[i] = '?'
     paper['title'] = ''.join(title)
-    paper['title_percent'] = 1 - title_specials / len(title)
-    # if len(title) == 0 or paper['title_percent'] < title_specials_thres:
-    #     paper['title_out'] = True
-    #     titles_out += 1
+    paper['title_percent'] = 1 - title_specials / len(title) if len(title) != 0 else 1
 
     abstract_specials = 0
     abstract = list(abstract)
@@ -85,56 +104,31 @@ for paper in papers:
             abstract[i] = '?'
     paper['paperAbstract'] = ''.join(abstract)
     paper['abstract_percent'] = 1 - abstract_specials / len(abstract) if len(abstract) != 0 else 1
-    # if len(abstract) == 0 or paper['abstract_percent'] < abstract_specials_thres:
-    #     if len(abstract) != 0:
-    #         empty_abstracts_out += 1
-    #         paper['abstract_out'] = True
-    #         abstracts_out += 1
 
+    ### write different feature lists
+    titles_list.append(paper['id'] + ' ' + paper['title'] + ' ' + str(paper['title_percent']))
+    if paper['venue'].strip() != '':
+        venues_list.append(paper['venue'])
+    for author in paper['authors']:
+        authors_list.append(format_author_entry(author))
 
-print('%i titles, %i out, %f percent' % (len(papers), titles_out, titles_out / len(papers)))
-print('%i abstracts, %i out, %f percent' % (len(papers), abstracts_out, abstracts_out / len(papers)))
-# print('empty abstracts are %i' % empty_abstracts_out)
-#
-# import pdb
-# pdb.set_trace()
+    ### adds the json paper entry
+    papers.append(paper)
 
-print('start writing file')
-with open(output_file, 'w') as f:
+print('writing the new json file %s' % (input_file + '.json'))
+with open(input_file + '.json', 'w') as f:
     json.dump({'papers': papers}, f, indent=2, ensure_ascii=False)
 
+print('writing titles to a separate list')
+with open(titles_file, 'w') as f:
+    f.writelines('\n'.join(titles_list))
 
-#     ### those are final statistics code but won't contain conversion code
-#     title_letters = 0
-#     abstract_letters = 0
-#     for c in title:
-#         code = ord(c)
-#         if code > 127:
-#             out_flag = True
-#             break
-#         elif code >= 97 and code <= 122 or code == 32:
-#             title_letters += 1
-#     if title_letters / len(title) < title_letters_thres:
-#         out_flag = True
-#     if out_flag:
-#         paper['filter_out'] = True
-#         out_indices.append(index)
-#         continue
-#     if abstract == '':
-#         continue
-#     for c in abstract:
-#         code = ord(c)
-#         if code > 127:
-#             out_flag = True
-#             break
-#         elif code >= 97 and code <= 122 or code == 32:
-#             abstract_letters += 1
-#     if abstract_letters / len(abstract) < abstract_letters_thres:
-#         out_flag = True
-#     if out_flag:
-#         paper['filter_out'] = True
-#         out_indices.append(index)
-#
-# print(out_indices)
-# import pdb
-# pdb.set_trace()
+print('writing authors to a separate list')
+with open(authors_file, 'w') as f:
+    f.writelines('\n'.join(authors_list))
+
+print('writing venues to a separate list')
+with open(venues_file, 'w') as f:
+    f.writelines('\n'.join(venues_list))
+
+print('done for %s!' % input_file)
