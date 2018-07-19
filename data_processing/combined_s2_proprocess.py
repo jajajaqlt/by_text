@@ -16,12 +16,13 @@ import json
 '''
 
 input_file = sys.argv[1]
+output_file = sys.argv[2]
 # each line: s2_id title title_percent
-titles_file = sys.argv[2]
+titles_file = sys.argv[3]
 # each line: author id1 id2
-authors_file = sys.argv[3]
+authors_file = sys.argv[4]
 # each line: venue (skip if empty)
-venues_file = sys.argv[4]
+venues_file = sys.argv[5]
 titles_list = []
 authors_list = []
 venues_list = []
@@ -115,8 +116,8 @@ for line in lines:
     ### adds the json paper entry
     papers.append(paper)
 
-print('writing the new json file %s' % (input_file + '.json'))
-with open(input_file + '.json', 'w') as f:
+print('writing the new json file %s' % output_file)
+with open(output_file, 'w') as f:
     json.dump({'papers': papers}, f, indent=2, ensure_ascii=False)
 
 print('writing titles to a separate list')
