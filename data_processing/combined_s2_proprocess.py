@@ -39,8 +39,8 @@ def format_author_entry(author):
     return entry
 
 for line in lines:
-    paper = json.load(line)
-    paper = {feature: paper[feature] for feature in features}
+    paper = json.loads(line)
+    paper = {feature: paper[feature] if feature in paper else None for feature in features}
 
     title = paper['title'].strip()
     abstract = paper['paperAbstract'].strip()
