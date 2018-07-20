@@ -35,11 +35,11 @@ for line in lines:
 
 # import pdb; pdb.set_trace()
 print('processing papers')
-count = 0
+# count = 0
 for paper in papers:
-    if count % 100 == 0:
-        print(count)
-    count += 1
+    # if count % 100 == 0:
+    #     print(count)
+    # count += 1
     authors = paper['authors']
     author_ids = []
     for author in authors:
