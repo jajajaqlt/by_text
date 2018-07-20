@@ -21,9 +21,11 @@ else:
 
 out = open(output_file, 'w')
 
+index = 0
 for count in sorted_venue_counts:
     if count[1] < threshold:
         break
-    out.write(str(count[0]))
+    out.write(count[0].strip() + ' ' + str(index) + '\n')
+    index += 1
 
 out.close()
